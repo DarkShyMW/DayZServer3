@@ -5,8 +5,8 @@
             "type": "SurvivorF_Maria",
             "category": "MAN",
             "name": "[BF] DarkShy",
-            "id": 3006942,
-            "position": "8081.873535 7.891060 2928.499268",
+            "id": 3005261,
+            "position": "4299.151367 94.452209 3402.127197",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         }
@@ -17,7 +17,7 @@
             "type": "CivilianSedan_Wine",
             "category": "GROUND",
             "name": "",
-            "id": 2999673,
+            "id": 3001946,
             "position": "3338.296875 239.593765 4957.365723",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -27,7 +27,7 @@
             "type": "CivilianSedan_Wine",
             "category": "GROUND",
             "name": "",
-            "id": 2999688,
+            "id": 3001961,
             "position": "4338.680176 177.234772 13080.030273",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -37,7 +37,7 @@
             "type": "CivilianSedan_Wine",
             "category": "GROUND",
             "name": "",
-            "id": 2999695,
+            "id": 3001968,
             "position": "7566.981934 214.350388 5168.627441",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -47,18 +47,8 @@
             "type": "CivilianSedan_Wine",
             "category": "GROUND",
             "name": "",
-            "id": 2999706,
+            "id": 3001979,
             "position": "5676.042969 57.018887 2372.493408",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "CivilianSedan_Wine",
-            "category": "GROUND",
-            "name": "",
-            "id": 2999723,
-            "position": "7013.053711 6.210364 2794.856201",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -67,7 +57,7 @@
             "type": "CivilianSedan_Black",
             "category": "GROUND",
             "name": "",
-            "id": 2999737,
+            "id": 3001999,
             "position": "11684.936523 109.234978 15060.734375",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -77,18 +67,8 @@
             "type": "CivilianSedan",
             "category": "GROUND",
             "name": "",
-            "id": 2999748,
+            "id": 3002010,
             "position": "7512.627930 121.417145 12662.512695",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "CivilianSedan",
-            "category": "GROUND",
-            "name": "",
-            "id": 2999771,
-            "position": "13517.973633 17.532125 14032.801758",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -97,7 +77,7 @@
             "type": "Hatchback_02_Blue",
             "category": "GROUND",
             "name": "",
-            "id": 2999789,
+            "id": 3002032,
             "position": "8050.073730 118.861969 12635.467773",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -107,7 +87,7 @@
             "type": "Hatchback_02_Black",
             "category": "GROUND",
             "name": "",
-            "id": 2999810,
+            "id": 3002053,
             "position": "3422.627441 204.374527 12687.754883",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -117,7 +97,7 @@
             "type": "Hatchback_02_Black",
             "category": "GROUND",
             "name": "",
-            "id": 2999821,
+            "id": 3002064,
             "position": "2678.128662 211.437790 5594.175293",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -127,47 +107,17 @@
             "type": "Hatchback_02",
             "category": "GROUND",
             "name": "",
-            "id": 2999842,
+            "id": 3002085,
             "position": "12824.884766 6.463292 10115.724609",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
         {
             "entryType": "VEHICLE",
-            "type": "Hatchback_02",
-            "category": "GROUND",
-            "name": "",
-            "id": 2999859,
-            "position": "12144.025391 97.663017 13605.442383",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
             "type": "Hatchback_02_Blue",
             "category": "GROUND",
             "name": "",
-            "id": 2999877,
-            "position": "9896.381836 6.709596 1841.836914",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "Hatchback_02_Blue",
-            "category": "GROUND",
-            "name": "",
-            "id": 2999890,
-            "position": "6351.289063 9.796940 2522.853516",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "Hatchback_02_Blue",
-            "category": "GROUND",
-            "name": "",
-            "id": 2999907,
+            "id": 3002102,
             "position": "2529.279297 194.427399 5041.169434",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -177,7 +127,7 @@
             "type": "Offroad_02",
             "category": "GROUND",
             "name": "",
-            "id": 2999922,
+            "id": 3002117,
             "position": "3694.976807 402.521820 5993.397949",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -187,7 +137,7 @@
             "type": "Offroad_02",
             "category": "GROUND",
             "name": "",
-            "id": 2999934,
+            "id": 3002129,
             "position": "4604.208008 339.521820 9518.968750",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -197,7 +147,7 @@
             "type": "Offroad_02",
             "category": "GROUND",
             "name": "",
-            "id": 2999948,
+            "id": 3002143,
             "position": "4801.162109 339.331818 10663.809570",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -207,7 +157,7 @@
             "type": "OffroadHatchback",
             "category": "GROUND",
             "name": "",
-            "id": 2999957,
+            "id": 3002152,
             "position": "11534.290039 213.257019 5014.191406",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -217,7 +167,7 @@
             "type": "OffroadHatchback_Blue",
             "category": "GROUND",
             "name": "",
-            "id": 2999970,
+            "id": 3002165,
             "position": "5261.306641 163.852737 12629.597656",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -227,7 +177,7 @@
             "type": "OffroadHatchback",
             "category": "GROUND",
             "name": "",
-            "id": 2999983,
+            "id": 3002178,
             "position": "11683.032227 76.097366 6677.009277",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -237,7 +187,7 @@
             "type": "OffroadHatchback_White",
             "category": "GROUND",
             "name": "",
-            "id": 2999994,
+            "id": 3002189,
             "position": "9582.726563 260.476990 14758.749023",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -247,17 +197,7 @@
             "type": "OffroadHatchback_White",
             "category": "GROUND",
             "name": "",
-            "id": 3000007,
-            "position": "14034.865234 131.745193 14716.963867",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "OffroadHatchback_White",
-            "category": "GROUND",
-            "name": "",
-            "id": 3000017,
+            "id": 3002202,
             "position": "10081.266602 155.153412 13299.908203",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -267,7 +207,7 @@
             "type": "OffroadHatchback",
             "category": "GROUND",
             "name": "",
-            "id": 3000025,
+            "id": 3002210,
             "position": "7842.509277 263.822235 11571.193359",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -277,18 +217,8 @@
             "type": "OffroadHatchback",
             "category": "GROUND",
             "name": "",
-            "id": 3000036,
+            "id": 3002221,
             "position": "5803.465332 330.422729 14339.255859",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "Sedan_02_Grey",
-            "category": "GROUND",
-            "name": "",
-            "id": 3000043,
-            "position": "14139.283203 3.381784 13050.334961",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -297,7 +227,7 @@
             "type": "Sedan_02",
             "category": "GROUND",
             "name": "",
-            "id": 3000058,
+            "id": 3002231,
             "position": "11480.775391 59.232098 14897.006836",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -307,18 +237,8 @@
             "type": "Sedan_02",
             "category": "GROUND",
             "name": "",
-            "id": 3000066,
+            "id": 3002239,
             "position": "7061.411621 131.472336 12687.502930",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "Sedan_02_Red",
-            "category": "GROUND",
-            "name": "",
-            "id": 3000084,
-            "position": "10023.494141 9.097400 2110.498779",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -327,7 +247,7 @@
             "type": "Sedan_02_Grey",
             "category": "GROUND",
             "name": "",
-            "id": 3000099,
+            "id": 3002252,
             "position": "6383.011230 288.853271 7562.387695",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -337,7 +257,7 @@
             "type": "Sedan_02_Grey",
             "category": "GROUND",
             "name": "",
-            "id": 3000110,
+            "id": 3002263,
             "position": "8074.107910 116.225494 12813.867188",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -347,18 +267,8 @@
             "type": "Sedan_02_Red",
             "category": "GROUND",
             "name": "",
-            "id": 3000123,
+            "id": 3002276,
             "position": "3286.668213 201.218948 13058.938477",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "Sedan_02_Grey",
-            "category": "GROUND",
-            "name": "",
-            "id": 3000130,
-            "position": "10571.185547 6.799408 2077.644531",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -367,7 +277,7 @@
             "type": "Truck_01_Covered",
             "category": "GROUND",
             "name": "",
-            "id": 3000142,
+            "id": 3002287,
             "position": "7702.699219 118.965302 12682.582031",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -377,17 +287,7 @@
             "type": "Truck_01_Covered_Orange",
             "category": "GROUND",
             "name": "",
-            "id": 3000154,
-            "position": "7711.293457 6.673177 3541.884766",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "Truck_01_Covered_Orange",
-            "category": "GROUND",
-            "name": "",
-            "id": 3000165,
+            "id": 3002300,
             "position": "10933.672852 220.728760 13386.409180",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -397,7 +297,7 @@
             "type": "Truck_01_Covered_Orange",
             "category": "GROUND",
             "name": "",
-            "id": 3000180,
+            "id": 3002315,
             "position": "4429.719238 313.299652 8215.327148",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -407,7 +307,7 @@
             "type": "Truck_01_Covered_Blue",
             "category": "GROUND",
             "name": "",
-            "id": 3000195,
+            "id": 3002330,
             "position": "2041.367798 249.663391 12167.070313",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -417,7 +317,7 @@
             "type": "Truck_01_Covered_Orange",
             "category": "GROUND",
             "name": "",
-            "id": 3000200,
+            "id": 3002335,
             "position": "2206.428223 92.707283 3372.249512",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -427,7 +327,7 @@
             "type": "Truck_01_Covered_Blue",
             "category": "GROUND",
             "name": "",
-            "id": 3000210,
+            "id": 3002345,
             "position": "10362.627930 136.268524 7419.542480",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -437,7 +337,7 @@
             "type": "Truck_01_Covered",
             "category": "GROUND",
             "name": "",
-            "id": 3000215,
+            "id": 3002350,
             "position": "9914.189453 179.157104 6694.125488",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -447,7 +347,7 @@
             "type": "ExpansionUAZ",
             "category": "GROUND",
             "name": "",
-            "id": 3000222,
+            "id": 3002357,
             "position": "1711.320068 451.589355 14120.798828",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -457,7 +357,7 @@
             "type": "ExpansionUAZCargo_Black",
             "category": "GROUND",
             "name": "",
-            "id": 3000235,
+            "id": 3002370,
             "position": "4847.169922 8.829934 2465.946045",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -467,7 +367,7 @@
             "type": "ExpansionUAZCargoRoofless",
             "category": "GROUND",
             "name": "",
-            "id": 3000246,
+            "id": 3002381,
             "position": "5419.279785 331.820007 9886.824219",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -477,7 +377,7 @@
             "type": "ExpansionUAZCargo",
             "category": "GROUND",
             "name": "",
-            "id": 3000278,
+            "id": 3002413,
             "position": "2548.650635 190.217545 5198.646484",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -487,7 +387,7 @@
             "type": "ExpansionUAZRoofless",
             "category": "GROUND",
             "name": "",
-            "id": 3000293,
+            "id": 3002428,
             "position": "4544.443848 317.678589 8333.590820",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -497,18 +397,8 @@
             "type": "ExpansionVodnik",
             "category": "SEA",
             "name": "",
-            "id": 3000307,
+            "id": 3002442,
             "position": "1158.885864 150.957382 6219.542480",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "ExpansionBus_Weeb",
-            "category": "GROUND",
-            "name": "",
-            "id": 3000312,
-            "position": "6391.582520 9.250054 2696.826416",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -517,7 +407,7 @@
             "type": "ExpansionBus",
             "category": "GROUND",
             "name": "",
-            "id": 3000316,
+            "id": 3002447,
             "position": "12982.301758 5.984235 8363.115234",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -527,7 +417,7 @@
             "type": "ExpansionBus_Weeb",
             "category": "GROUND",
             "name": "",
-            "id": 3000323,
+            "id": 3002454,
             "position": "7912.817871 116.962776 12669.339844",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -537,7 +427,7 @@
             "type": "ExpansionTractor_Blue",
             "category": "GROUND",
             "name": "",
-            "id": 3000332,
+            "id": 3002463,
             "position": "12300.700195 33.994839 9174.881836",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -547,18 +437,8 @@
             "type": "ExpansionTractor_Green",
             "category": "GROUND",
             "name": "",
-            "id": 3000348,
+            "id": 3002479,
             "position": "10665.538086 211.411850 7917.083496",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "ExpansionTractor_Green",
-            "category": "GROUND",
-            "name": "",
-            "id": 3000357,
-            "position": "13465.016602 79.317673 13067.955078",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -567,7 +447,7 @@
             "type": "ExpansionTractor",
             "category": "GROUND",
             "name": "",
-            "id": 3000364,
+            "id": 3002490,
             "position": "10869.081055 234.257736 12285.818359",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -577,7 +457,7 @@
             "type": "Expansion_Landrover_Green",
             "category": "GROUND",
             "name": "",
-            "id": 3000373,
+            "id": 3002499,
             "position": "11151.697266 134.610901 7049.738770",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -587,7 +467,7 @@
             "type": "Expansion_Landrover_Red",
             "category": "GROUND",
             "name": "",
-            "id": 3000388,
+            "id": 3002514,
             "position": "4832.057129 473.968475 15187.394531",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -597,7 +477,7 @@
             "type": "Expansion_Landrover_Yellow",
             "category": "GROUND",
             "name": "",
-            "id": 3000418,
+            "id": 3002544,
             "position": "1052.233521 157.428955 6674.846680",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -607,7 +487,7 @@
             "type": "Expansion_Landrover_Blue",
             "category": "GROUND",
             "name": "",
-            "id": 3000435,
+            "id": 3002561,
             "position": "11163.995117 197.604462 12182.795898",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -617,7 +497,7 @@
             "type": "ExpansionMh6_Blueline",
             "category": "AIR",
             "name": "",
-            "id": 3000444,
+            "id": 3002570,
             "position": "4169.207031 338.463867 10990.301758",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -627,7 +507,7 @@
             "type": "ExpansionMh6_Digital",
             "category": "AIR",
             "name": "",
-            "id": 3000458,
+            "id": 3002584,
             "position": "1689.941284 451.787567 14343.283203",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -637,8 +517,8 @@
             "type": "ExpansionMerlin",
             "category": "AIR",
             "name": "",
-            "id": 3000474,
-            "position": "4672.193359 342.616486 10360.864258",
+            "id": 3002600,
+            "position": "4672.175293 342.596008 10360.830078",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -647,7 +527,7 @@
             "type": "ExpansionUh1h_Medical",
             "category": "AIR",
             "name": "",
-            "id": 3000477,
+            "id": 3002603,
             "position": "504.444916 422.094482 11237.185547",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -657,7 +537,7 @@
             "type": "ExpansionUh1h_Uber",
             "category": "AIR",
             "name": "",
-            "id": 3000496,
+            "id": 3002622,
             "position": "8007.269531 339.766083 14627.913086",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -667,7 +547,7 @@
             "type": "ExpansionUtilityBoat",
             "category": "SEA",
             "name": "",
-            "id": 3000506,
+            "id": 3002632,
             "position": "13222.380859 -3.584280 9996.955078",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -677,7 +557,7 @@
             "type": "ExpansionUtilityBoat",
             "category": "SEA",
             "name": "",
-            "id": 3000514,
+            "id": 3002640,
             "position": "4318.424805 -0.538955 2146.654785",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -687,67 +567,27 @@
             "type": "ExpansionUtilityBoat",
             "category": "SEA",
             "name": "",
-            "id": 3000522,
+            "id": 3002648,
             "position": "13074.625977 4.507893 8245.901367",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
         {
             "entryType": "VEHICLE",
-            "type": "ExpansionZodiacBoat_Green",
-            "category": "SEA",
-            "name": "",
-            "id": 3000530,
-            "position": "6569.286621 -3.272521 2239.052734",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
             "type": "ExpansionZodiacBoat_Black",
             "category": "SEA",
             "name": "",
-            "id": 3000537,
-            "position": "10948.935547 -0.717604 2640.151611",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "ExpansionZodiacBoat_Green",
-            "category": "SEA",
-            "name": "",
-            "id": 3000545,
-            "position": "6857.437012 -1.515032 2664.654297",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "ExpansionZodiacBoat_Black",
-            "category": "SEA",
-            "name": "",
-            "id": 3000552,
+            "id": 3002654,
             "position": "1860.834473 -3.272521 2069.885254",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
         {
             "entryType": "VEHICLE",
-            "type": "ExpansionZodiacBoat_Black",
-            "category": "SEA",
-            "name": "",
-            "id": 3000560,
-            "position": "10189.242188 -3.272521 1659.217163",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
             "type": "ExpansionZodiacBoat_Green",
             "category": "SEA",
             "name": "",
-            "id": 3000568,
+            "id": 3002662,
             "position": "3604.045654 0.232037 2050.874268",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -757,7 +597,7 @@
             "type": "ExpansionZodiacBoat_Black",
             "category": "SEA",
             "name": "",
-            "id": 3000574,
+            "id": 3002668,
             "position": "13153.369141 -0.265291 7668.894531",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -767,27 +607,7 @@
             "type": "ExpansionZodiacBoat",
             "category": "SEA",
             "name": "",
-            "id": 3000586,
-            "position": "7794.909180 0.123062 2997.739502",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "ExpansionZodiacBoat_Green",
-            "category": "SEA",
-            "name": "",
-            "id": 3000594,
-            "position": "12062.222656 -3.272521 3421.839600",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "ExpansionZodiacBoat",
-            "category": "SEA",
-            "name": "",
-            "id": 3000601,
+            "id": 3002675,
             "position": "13473.399414 0.226175 5437.576660",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -797,7 +617,7 @@
             "type": "ExpansionZodiacBoat_Black",
             "category": "SEA",
             "name": "",
-            "id": 3000608,
+            "id": 3002682,
             "position": "13549.231445 -1.811169 6299.268066",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -807,18 +627,8 @@
             "type": "ExpansionZodiacBoat_Green",
             "category": "SEA",
             "name": "",
-            "id": 3000615,
+            "id": 3002689,
             "position": "2827.707764 -0.264532 1131.306030",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        },
-        {
-            "entryType": "VEHICLE",
-            "type": "ExpansionZodiacBoat",
-            "category": "SEA",
-            "name": "",
-            "id": 3000622,
-            "position": "7503.430176 -3.272521 2507.715088",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -827,7 +637,7 @@
             "type": "ExpansionGyrocopter",
             "category": "AIR",
             "name": "",
-            "id": 3000633,
+            "id": 3002698,
             "position": "5030.673340 9.580875 2356.444336",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -837,7 +647,7 @@
             "type": "Hatchback_02_BanditKitty",
             "category": "GROUND",
             "name": "",
-            "id": 3006188,
+            "id": 3002707,
             "position": "10226.191406 65.019562 4077.436523",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
@@ -847,8 +657,48 @@
             "type": "Hatchback_02_BanditKitty",
             "category": "GROUND",
             "name": "",
-            "id": 3006195,
+            "id": 3002720,
             "position": "13354.952148 5.969821 5440.331543",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "CivilianSedan",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002745,
+            "position": "13517.973633 17.532125 14032.801758",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "OffroadHatchback_White",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002754,
+            "position": "14034.865234 131.745193 14716.963867",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Sedan_02_Grey",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002762,
+            "position": "14139.283203 3.381784 13050.334961",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionTractor_Green",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002776,
+            "position": "13465.016602 79.317673 13067.955078",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -857,8 +707,168 @@
             "type": "ExpansionZodiacBoat_Black",
             "category": "SEA",
             "name": "",
-            "id": 3006466,
+            "id": 3002779,
             "position": "14299.658203 0.219356 13242.289063",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Hatchback_02",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002792,
+            "position": "12144.025391 97.663017 13605.442383",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat_Green",
+            "category": "SEA",
+            "name": "",
+            "id": 3002800,
+            "position": "12062.222656 -3.272521 3421.839600",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Hatchback_02_Blue",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002817,
+            "position": "9896.381836 6.709596 1841.836914",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Sedan_02_Red",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002838,
+            "position": "10023.494141 9.097400 2110.498779",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Sedan_02_Grey",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002847,
+            "position": "10571.185547 6.799408 2077.644531",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat_Black",
+            "category": "SEA",
+            "name": "",
+            "id": 3002855,
+            "position": "10948.935547 -0.717604 2640.151611",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat_Black",
+            "category": "SEA",
+            "name": "",
+            "id": 3002861,
+            "position": "10189.242188 -3.272521 1659.217163",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Hatchback_02_Blue",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002872,
+            "position": "6351.289063 9.796940 2522.853516",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionBus_Weeb",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002882,
+            "position": "6391.582520 9.250054 2696.826416",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat_Green",
+            "category": "SEA",
+            "name": "",
+            "id": 3002888,
+            "position": "6569.286621 -3.272521 2239.052734",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "CivilianSedan_Wine",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002900,
+            "position": "7013.053711 6.210364 2794.856201",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Truck_01_Covered_Orange",
+            "category": "GROUND",
+            "name": "",
+            "id": 3002909,
+            "position": "7711.293457 6.673177 3541.884766",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat_Green",
+            "category": "SEA",
+            "name": "",
+            "id": 3002918,
+            "position": "6857.437012 -1.515032 2664.654297",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat",
+            "category": "SEA",
+            "name": "",
+            "id": 3002930,
+            "position": "6726.272949 0.581543 2370.915283",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat",
+            "category": "SEA",
+            "name": "",
+            "id": 3002939,
+            "position": "7503.430176 -3.272521 2507.715088",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat_Green",
+            "category": "SEA",
+            "name": "",
+            "id": 3009293,
+            "position": "7795.526367 -0.103433 2995.837891",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         }

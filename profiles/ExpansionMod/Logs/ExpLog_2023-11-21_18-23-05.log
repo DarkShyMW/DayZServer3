@@ -1,0 +1,11 @@
+18:24:27.375 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:24:27.375 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:24:27.375 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:24:27.375 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:24:27.375 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:24:27.375 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:24:30.000 [AI Patrol] Spawning 4 West bots at <8870.423828, 59.878101, 2526.438232>
+18:26:43.234 [VehicleEnter] Player [BF] DarkShy [uid=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=] entered vehicle PBX (id=9D1BB3DD3E4F8D9F4A368AB3C0E3959B pos=<7794.910156, -0.161922, 2997.739258>) as driver
+18:26:45.078 [VehicleEngine] Player [BF] DarkShy [uid=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=] started vehicle PBX (id=9D1BB3DD3E4F8D9F4A368AB3C0E3959B pos=<7794.910156, 0.048994, 2997.739258>)
+18:29:28.820 [VehicleLeave] Player [BF] DarkShy [uid=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=] left vehicle PBX (id=9D1BB3DD3E4F8D9F4A368AB3C0E3959B pos=<6726.272949, 0.581543, 2370.915283>)
+18:47:17.601 [Expansion Quests] - CompleteQuest - Player with UID RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= has completed quest 8

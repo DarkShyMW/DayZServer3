@@ -5,3 +5,8 @@
 11-21 18:21:34 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<64d35760>
 11-21 18:21:34 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<510c3e70>
 11-21 18:21:34 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<510c3e70> saved as alive
+11-21 18:24:27 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<22caf860>
+11-21 18:24:27 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<3cd2a180>
+11-21 18:54:00 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<22caf860>
+11-21 18:54:00 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<3cd2a180>
+11-21 18:54:00 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<3cd2a180> saved as alive

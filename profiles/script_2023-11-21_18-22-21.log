@@ -49,3 +49,821 @@ SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,79": Unsafe dow
 SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,93": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
 SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
 SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,24": Missing ';' at the end of line
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,203": Missing ';' at the end of line
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,12": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,12": Possible variable name conflict 'source'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,61": FIX-ME: Overriding function 'Init' but not marked as 'override'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,61": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,61": Possible variable name conflict 'source'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,670": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,193": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,305": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,458": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,123": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,728": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,558": Possible variable name conflict 'classname'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,244": Possible variable name conflict 'name'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,244": Possible variable name conflict 'rpm'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,244": Possible variable name conflict 'dispersion'
+SCRIPT    (W): @"DayZServerManager/Scripts/5_Mission/dayzservermanager\game\dayzservermanagerwatcher.c,244": Possible variable name conflict 'rounds'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuitemmanager\menuitemmanager.c,201": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\mouseevents\vppmouseeventbase.c,53": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppadminhud.c,126": Unsafe down-casting, use 'MenuObjectManager.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,580": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\infoboxinstance.c,61": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\mouseevents\vppholdleftclickevent.c,13": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\uihelpers\tooltiphandler.c,38": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuplayermanager\menuplayermanager.c,71": FIX-ME: Callbacks do not properly support overloaded methods 'OnUpdate'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppuimanager.c,183": FIX-ME: Undefined function 'CGame.GetMouseState'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missiondebug.c,38": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,862": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuxmleditor\menuxmleditor.c,264": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : [VPPAdminTools] Error parsing credentials.txt! Please input a valid password, with no // at the start of the line!
+SCRIPT       : Expansion version: 1.8.32
+SCRIPT       : 18:23:04.632 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 18:23:04.632 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 18:23:04.640 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 18:23:04.640 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 18:23:04.640 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 18:23:04.640 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 18:23:04.640 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 18:23:04.664 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Ammo_Boxes_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Ammo_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Assault_Rifles_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Bayonets_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Bipods_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Buttstocks_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Handguards_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Launchers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Locks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Magazines_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Muzzles_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Optics_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Pistols_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Rifles_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 68 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 69 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 70 (Shotguns_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 71 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 72 (Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 73 (Sniper_Rifles_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 74 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 75 (Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 76 (Submachine_Guns_Mortys)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 77 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 78 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 79 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 80 (Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 81 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 82 (Vests)
+SCRIPT       : 18:23:05.093 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 18:23:05.218 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 18:23:05.218 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 18:23:05.234 [EXPANSION DEBUG]: [ExpansionPersonalStorageNewSettings] Load existing setting file:$profile:ExpansionMod\Settings\PersonalStorageNewSettings.json
+SCRIPT       : 18:23:05.234 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 18:23:05.234 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 18:23:05.234 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 18:23:05.234 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 18:23:05.234 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 18:23:05.250 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 18:23:05.250 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 18:23:05.265 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 18:23:05.265 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 18:23:05.273 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 18:23:05.281 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODHARDLINE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODKILLFEED is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODPERSONALSTORAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODSPAWNSELECTION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_PersonalStorage_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : DZ_DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : DayZServerManager
+SCRIPT       : bliss
+SCRIPT       : GoreZ
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JM_CommunityOnlineTools
+SCRIPT       : OP_BaseItems
+SCRIPT       : TTC_Optics
+SCRIPT       : TTC_Pistols
+SCRIPT       : TTC_Rifles
+SCRIPT       : TTC_Shotguns
+SCRIPT       : TTC_SMG
+SCRIPT       : AVPPAdminTools
+SCRIPT       : WindstrideClothing
+SCRIPT       : WinterChernarusV2Scripts
+SCRIPT       : Lads_LightingOverhaul
+SCRIPT       : WinterStash
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_PersonalStorage
+SCRIPT       : DZ_Expansion_PersonalStorageNew
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : DayZServerManagerExpansion
+SCRIPT       : Indi_Increased_Lumens
+SCRIPT       : WinterGearMod
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : DZSM ~ MissionServer
+SCRIPT       : DZSM ~ MissionServer.OnInit
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : 18:23:05.687 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : DZSM ~ MissionServer.OnMissionStart
+SCRIPT       : DZSM ~ DayZServerManagerWatcher()
+SCRIPT       : 18:23:17.460 [EXPANSION DEBUG]: ExpansionTraderJudy<daf71040>::SetTraderObject ExpansionTraderObjectBase<a7ea07d0> <4973.928711, 9.510984, 2436.782959>
+SCRIPT       : 18:23:17.460 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJudy<daf71040> fileName Aircraft
+SCRIPT       : 18:23:17.507 [EXPANSION DEBUG]: ExpansionTraderJose<d049b010>::SetTraderObject ExpansionTraderObjectBase<a7f28cc0> <14353.624023, 3.326771, 13229.217773>
+SCRIPT       : 18:23:17.507 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJose<d049b010> fileName Boats
+SCRIPT       : 18:23:17.523 [EXPANSION DEBUG]: ExpansionTraderEva<29464010>::SetTraderObject ExpansionTraderObjectBase<a8009cf0> <14378.793945, 3.325975, 13271.585938>
+SCRIPT       : 18:23:17.523 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderEva<29464010> fileName Fishing
+SCRIPT       : 18:23:17.539 [EXPANSION DEBUG]: ExpansionTraderLewis<dea3a020>::SetTraderObject ExpansionTraderObjectBase<a8175be0> <1756.656372, 1.415564, 2027.359741>
+SCRIPT       : 18:23:17.539 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLewis<dea3a020> fileName Boats
+SCRIPT       : 18:23:17.554 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<88e534e0> fileName Exchange
+SCRIPT       : 18:23:17.648 [EXPANSION DEBUG]: ExpansionTraderDenis<7cd4a010>::SetTraderObject ExpansionTraderObjectBase<a8297bf0> <3697.249512, 402.010010, 5977.625488>
+SCRIPT       : 18:23:17.648 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<7cd4a010> fileName Clothing
+SCRIPT       : 18:23:17.710 [EXPANSION DEBUG]: ExpansionTraderMaria<60590010>::SetTraderObject ExpansionTraderObjectBase<a83345b0> <3696.455811, 402.010010, 5980.193359>
+SCRIPT       : 18:23:17.710 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderMaria<60590010> fileName Clothing_Accessories
+SCRIPT       : 18:23:17.765 [EXPANSION DEBUG]: ExpansionTraderQuinn<d02ff010>::SetTraderObject ExpansionTraderObjectBase<a8422a60> <3710.121826, 402.010010, 5976.164063>
+SCRIPT       : 18:23:17.765 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderQuinn<d02ff010> fileName Consumables
+SCRIPT       : 18:23:17.867 [EXPANSION DEBUG]: ExpansionTraderNaomi<da1bc010>::SetTraderObject ExpansionTraderObjectBase<b1281550> <3708.786865, 402.010010, 5974.589844>
+SCRIPT       : 18:23:17.867 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<da1bc010> fileName Weapons
+SCRIPT       : 18:23:17.937 [EXPANSION DEBUG]: ExpansionTraderSeth<a8644020>::SetTraderObject ExpansionTraderObjectBase<b1325c30> <3710.265137, 402.010010, 5973.340820>
+SCRIPT       : 18:23:17.937 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderSeth<a8644020> fileName Attachments
+SCRIPT       : 18:23:17.953 [EXPANSION DEBUG]: ExpansionTraderRolf<d0224090>::SetTraderObject ExpansionTraderObjectBase<b14968b0> <3698.172607, 402.010010, 5995.337402>
+SCRIPT       : 18:23:17.953 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderRolf<d0224090> fileName Vehicles
+SCRIPT       : 18:23:18.039 [EXPANSION DEBUG]: ExpansionTraderIndar<d046f010>::SetTraderObject ExpansionTraderObjectBase<b158f100> <3714.531006, 402.138000, 5961.776367>
+SCRIPT       : 18:23:18.039 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIndar<d046f010> fileName Components
+SCRIPT       : 18:23:18.054 [EXPANSION DEBUG]: ExpansionTraderJudy<da145030>::SetTraderObject ExpansionTraderObjectBase<b159c5d0> <3729.029541, 402.651001, 5969.476563>
+SCRIPT       : 18:23:18.054 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJudy<da145030> fileName Medicals
+SCRIPT       : 18:23:18.054 [EXPANSION DEBUG]: ExpansionTraderNaomi<d0427010>::SetTraderObject ExpansionTraderObjectBase<b15a5040> <3690.062988, 402.100067, 6006.763672>
+SCRIPT       : 18:23:18.054 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<d0427010> fileName Vehicle_Parts
+SCRIPT       : 18:23:18.085 [EXPANSION DEBUG]: ExpansionTraderJose<8d2c1cb0>::SetTraderObject ExpansionTraderObjectBase<b17c21c0> <3699.629883, 402.010010, 5993.970215>
+SCRIPT       : 18:23:18.085 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJose<8d2c1cb0> fileName Spraycans
+SCRIPT       : 18:23:18.132 [EXPANSION DEBUG]: ExpansionTraderLinda<8d2d9d10>::SetTraderObject ExpansionTraderObjectBase<b1868390> <3674.669922, 406.760010, 5990.390137>
+SCRIPT       : 18:23:18.132 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<8d2d9d10> fileName Special
+SCRIPT       : 18:23:18.148 [EXPANSION DEBUG]: ExpansionTraderNiki<8d2bdca0>::SetTraderObject ExpansionTraderObjectBase<b19848e0> <3699.030029, 402.013000, 5973.439941>
+SCRIPT       : 18:23:18.148 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNiki<8d2bdca0> fileName BuildingSupplies
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b1a0e460>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderFrancis<8d2ddd20> <1153.964844, 6.463035, 2409.763184>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.187 [EXPANSION DEBUG]: ExpansionTraderFrancis<8d2ddd20>::SetTraderObject ExpansionTraderObjectBase<b1a0e460> <1153.964844, 6.463035, 2409.763184>
+SCRIPT       : 18:23:18.187 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderFrancis<8d2ddd20> fileName Attachments
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b1aa7ee0>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderKaito<8d2d5d00> <1117.021240, 5.495151, 2413.766357>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.195 [EXPANSION DEBUG]: ExpansionTraderKaito<8d2d5d00>::SetTraderObject ExpansionTraderObjectBase<b1aa7ee0> <1117.021240, 5.495151, 2413.766357>
+SCRIPT       : 18:23:18.195 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderKaito<8d2d5d00> fileName Components
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b1b4c700>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderCyril<8d2e1d30> <1136.987427, 5.908522, 2439.662598>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.210 [EXPANSION DEBUG]: ExpansionTraderCyril<8d2e1d30>::SetTraderObject ExpansionTraderObjectBase<b1b4c700> <1136.987427, 5.908522, 2439.662598>
+SCRIPT       : 18:23:18.210 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderCyril<8d2e1d30> fileName Clothing
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b1c26e60>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderGuo<8d2c5cc0> <1133.974854, 5.909700, 2442.412598>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.218 [EXPANSION DEBUG]: ExpansionTraderGuo<8d2c5cc0>::SetTraderObject ExpansionTraderObjectBase<b1c26e60> <1133.974854, 5.909700, 2442.412598>
+SCRIPT       : 18:23:18.218 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGuo<8d2c5cc0> fileName Clothing_Accessories
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b1dac060>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderBoris<8d2edd60> <1123.468262, 15.349299, 2426.316162>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.234 [EXPANSION DEBUG]: ExpansionTraderBoris<8d2edd60>::SetTraderObject ExpansionTraderObjectBase<b1dac060> <1123.468262, 15.349299, 2426.316162>
+SCRIPT       : 18:23:18.234 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderBoris<8d2edd60> fileName Exchange
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b1db15b0>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderLinda<8d2e5d40> <1135.892822, 5.908773, 2436.856689>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.234 [EXPANSION DEBUG]: ExpansionTraderLinda<8d2e5d40>::SetTraderObject ExpansionTraderObjectBase<b1db15b0> <1135.892822, 5.908773, 2436.856689>
+SCRIPT       : 18:23:18.234 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<8d2e5d40> fileName Consumables
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b1e8edf0>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderKeiko<8d2e9d50> <1130.731689, 5.951744, 2438.009277>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.250 [EXPANSION DEBUG]: ExpansionTraderKeiko<8d2e9d50>::SetTraderObject ExpansionTraderObjectBase<b1e8edf0> <1130.731689, 5.951744, 2438.009277>
+SCRIPT       : 18:23:18.250 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderKeiko<8d2e9d50> fileName Medicals
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b1f75600>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderHelga<beb0fa0> <1141.654419, 5.906255, 2421.591309>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.257 [EXPANSION DEBUG]: ExpansionTraderHelga<beb0fa0>::SetTraderObject ExpansionTraderObjectBase<b1f75600> <1141.654419, 5.906255, 2421.591309>
+SCRIPT       : 18:23:18.257 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderHelga<beb0fa0> fileName Special
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b204a970>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderFrida<b20b18c0> <1120.135132, 5.600746, 2417.465820>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.265 [EXPANSION DEBUG]: ExpansionTraderFrida<b20b18c0>::SetTraderObject ExpansionTraderObjectBase<b204a970> <1120.135132, 5.600746, 2417.465820>
+SCRIPT       : 18:23:18.265 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderFrida<b20b18c0> fileName Vehicles
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b2194290>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderHassan<b20a1880> <1123.977905, 5.639271, 2417.411865>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.281 [EXPANSION DEBUG]: ExpansionTraderHassan<b20a1880>::SetTraderObject ExpansionTraderObjectBase<b2194290> <1123.977905, 5.639271, 2417.411865>
+SCRIPT       : 18:23:18.281 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderHassan<b20a1880> fileName Vehicle_Parts
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b21990b0>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderDenis<b2095850> <1156.719727, 6.513331, 2406.355225>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.281 [EXPANSION DEBUG]: ExpansionTraderDenis<b2095850>::SetTraderObject ExpansionTraderObjectBase<b21990b0> <1156.719727, 6.513331, 2406.355225>
+SCRIPT       : 18:23:18.281 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<b2095850> fileName Weapons
+SCRIPT       : 18:23:18 [ERROR] ExpansionTraderObjectBase<b4ad2760>::LoadTraderHost - ERROR: Trader is not within a trader zone: ExpansionTraderGabi<b20a5890> <1135.689941, 5.900000, 2423.300049>
+SCRIPT       : 	Error() DayZExpansion/Core/Scripts/1_Core/dayzexpansion_core\cf_log.c : 37
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 156
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 118
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 92
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 751
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 688
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 672
+SCRIPT       : 	FindMissionFiles#1042282() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 193
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 69
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 41
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 157
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 30
+SCRIPT       : 	OnMissionStart() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 12
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 18:23:18.289 [EXPANSION DEBUG]: ExpansionTraderGabi<b20a5890>::SetTraderObject ExpansionTraderObjectBase<b4ad2760> <1135.689941, 5.900000, 2423.300049>
+SCRIPT       : 18:23:18.289 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGabi<b20a5890> fileName BuildingSupplies
+SCRIPT       : 18:23:18.296 [EXPANSION DEBUG]: ExpansionTraderFrancis<b20b58d0>::SetTraderObject ExpansionTraderObjectBase<b4ad7f30> <11835.901367, 140.617874, 12474.744141>
+SCRIPT       : 18:23:18.296 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderFrancis<b20b58d0> fileName Attachments
+SCRIPT       : 18:23:18.304 [EXPANSION DEBUG]: ExpansionTraderLinda<b20a98a0>::SetTraderObject ExpansionTraderObjectBase<b4b7c090> <11856.716797, 140.565109, 12461.438477>
+SCRIPT       : 18:23:18.304 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<b20a98a0> fileName Consumables
+SCRIPT       : 18:23:18.304 [EXPANSION DEBUG]: ExpansionTraderCyril<b2099860>::SetTraderObject ExpansionTraderObjectBase<b4b81360> <11855.000000, 140.605103, 12466.099609>
+SCRIPT       : 18:23:18.304 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderCyril<b2099860> fileName Clothing
+SCRIPT       : 18:23:18.304 [EXPANSION DEBUG]: ExpansionTraderGuo<b20ad8b0>::SetTraderObject ExpansionTraderObjectBase<b4b879e0> <11855.200195, 140.605103, 12470.487305>
+SCRIPT       : 18:23:18.304 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGuo<b20ad8b0> fileName Clothing_Accessories
+SCRIPT       : 18:23:18.312 [EXPANSION DEBUG]: ExpansionTraderKaito<b20b98e0>::SetTraderObject ExpansionTraderObjectBase<b4b8bf40> <11849.400391, 140.605087, 12466.200195>
+SCRIPT       : 18:23:18.312 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderKaito<b20b98e0> fileName Components
+SCRIPT       : 18:23:18.312 [EXPANSION DEBUG]: ExpansionTraderBoris<b209d870>::SetTraderObject ExpansionTraderObjectBase<b4b921b0> <11858.202148, 140.615112, 12463.234375>
+SCRIPT       : 18:23:18.312 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderBoris<b209d870> fileName Exchange
+SCRIPT       : 18:23:18.320 [EXPANSION DEBUG]: ExpansionTraderKeiko<b20bd8f0>::SetTraderObject ExpansionTraderObjectBase<b4b97700> <11853.218750, 140.605087, 12463.277344>
+SCRIPT       : 18:23:18.320 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderKeiko<b20bd8f0> fileName Medicals
+SCRIPT       : 18:23:18.320 [EXPANSION DEBUG]: ExpansionTraderGabi<b20c9920>::SetTraderObject ExpansionTraderObjectBase<b4cfff40> <11833.200195, 140.605118, 12461.700195>
+SCRIPT       : 18:23:18.320 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderGabi<b20c9920> fileName Special
+SCRIPT       : 18:23:18.328 [EXPANSION DEBUG]: ExpansionTraderElias<b20cd930>::SetTraderObject ExpansionTraderObjectBase<b4e69cc0> <11877.799805, 140.134796, 12441.599609>
+SCRIPT       : 18:23:18.328 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderElias<b20cd930> fileName Vehicles
+SCRIPT       : 18:23:18.335 [EXPANSION DEBUG]: ExpansionTraderHassan<b20d1940>::SetTraderObject ExpansionTraderObjectBase<b4e6fad0> <11878.674805, 140.134796, 12424.302734>
+SCRIPT       : 18:23:18.335 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderHassan<b20d1940> fileName Vehicle_Parts
+SCRIPT       : 18:23:18.343 [EXPANSION DEBUG]: ExpansionTraderDenis<b20c1900>::SetTraderObject ExpansionTraderObjectBase<b4e752a0> <11833.576172, 140.605072, 12469.492188>
+SCRIPT       : 18:23:18.343 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<b20c1900> fileName Weapons
+SCRIPT       : 18:23:18.343 [EXPANSION DEBUG]: ExpansionTraderLinda<b20c5910>::SetTraderObject ExpansionTraderObjectBase<b4e7ab10> <11852.194336, 140.660980, 12472.387695>
+SCRIPT       : 18:23:18.343 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<b20c5910> fileName BuildingSupplies
+SCRIPT       : 18:23:18.351 [EXPANSION DEBUG]: ExpansionTraderManua<b4f5a8b0>::SetTraderObject ExpansionTraderObjectBase<b4f18d50> <11879.722656, 140.094788, 12435.959961>
+SCRIPT       : 18:23:18.351 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderManua<b4f5a8b0> fileName Spraycans
+SCRIPT       : 18:23:18.367 [EXPANSION DEBUG]: ExpansionTraderIrena<b4f5e8c0>::SetTraderObject ExpansionTraderObjectBase<b5084080> <12160.279297, 140.580765, 12689.783203>
+SCRIPT       : 18:23:18.367 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIrena<b4f5e8c0> fileName Aircraft
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_1.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_2.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_3.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_4.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_1.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_2.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_3.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_4.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_1.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_1.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_3.json
+SCRIPT       : [ExpansionQuestObjectiveTreasureHuntConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\TreasureHunt\Objective_TH_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_2.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIPatrolConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIPatrol\Objective_AIP_1.json
+SCRIPT       : [ExpansionQuestObjectiveAICampConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AICamp\Objective_AIC_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIEscortConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIVIP\Objective_AIESCORT_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_2.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_3.json
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'BronyFurryDayZServer'
+SCRIPT       : 18:23:49.117 [EXPANSION DEBUG]: ExpansionP2PTraderAIIrena<2f4c2610>::SetP2PTraderID - ID: 1
+SCRIPT       : ExpansionZonePolygon<fe395fc0> position=<12015.854492, 0.000000, 12591.097656> radius=419.633
+SCRIPT       : ExpansionZoneCircle<2ff7c370> position=<1143.140015, 0.000000, 2423.270020> radius=350
+SCRIPT       : ExpansionZoneCircle<2ff7c1f0> position=<3728.270020, 0.000000, 6003.600098> radius=250
+SCRIPT       : Found 3 zones!
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<bf317a30>
+SCRIPT       : int worth =   1
+SCRIPT       : 18:23:49.210 [EXPANSION DEBUG]: ExpansionQuestNPCAIDenis<2fe75020>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : 18:23:49.218 [EXPANSION DEBUG]: ExpansionP2PTraderAIIrena<2f4c2610>::OnEnterSafeZone
+SCRIPT       : bool m_Expansion_LeavingSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZone = 0
+SCRIPT       : bool m_Expansion_IsInSafeZoneSynchRemote = 0
+SCRIPT       : [emote] ExpansionP2PTraderAIIrena:043 play emote id=46 IH=null
+SCRIPT       : 18:23:50.914 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Scout:030671 at location { type=HANDS item=Scout:030646 parent=ExpansionQuestNPCAIDenis:044 }
+SCRIPT       : 18:23:50.914 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Scout_5Rnd:030672 at location { type=ATTACHMENT item=null parent=Scout:030671 slot=magazine }
+SCRIPT       : [emote] ExpansionQuestNPCAIDenis:044 play emote id=46 IH=Scout:030671
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : 18:23:52.054 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created FAMAS:030647 at location { type=HANDS item=FAMAS:030658 parent=ExpansionQuestNPCAIElias:045 }
+SCRIPT       : 18:23:52.054 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_FAMAS_25Rnd:030646 at location { type=ATTACHMENT item=null parent=FAMAS:030647 slot=magazine }
+SCRIPT       : [emote] ExpansionQuestNPCAIElias:045 play emote id=14 IH=FAMAS:030647
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "[BF] DarkShy" (steamId=76561198968682215) connected to server!
+SCRIPT       : 18:24:27.375 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending 21 quest configs to client with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:24:27.375 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for 4 quests to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:24:27.843 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:24:27.843 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 14 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:24:30.171 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugShort:030871 at location { type=HANDS item=AugShort:030855 parent=eAI_SurvivorM_Taiki:050 }
+SCRIPT       : 18:24:30.171 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Aug_30Rnd:030872 at location { type=ATTACHMENT item=null parent=AugShort:030871 slot=magazine }
+SCRIPT       : 18:24:30.171 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugOptic:030873 at location { type=ATTACHMENT item=null parent=AugShort:030871 slot=weaponOpticsAug }
+SCRIPT       : 18:24:30.242 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugShort:030856 at location { type=HANDS item=AugShort:030843 parent=eAI_SurvivorM_Oliver:049 }
+SCRIPT       : 18:24:30.242 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Aug_30Rnd:030855 at location { type=ATTACHMENT item=null parent=AugShort:030856 slot=magazine }
+SCRIPT       : 18:24:30.242 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created AugOptic:030870 at location { type=ATTACHMENT item=null parent=AugShort:030856 slot=weaponOpticsAug }
+SCRIPT       : 18:24:30.335 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Scout:030844 at location { type=HANDS item=Scout:030819 parent=eAI_SurvivorF_Helga:047 }
+SCRIPT       : 18:24:30.335 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_Scout_5Rnd:030843 at location { type=ATTACHMENT item=null parent=Scout:030844 slot=magazine }
+SCRIPT       : 18:24:30.367 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created FAMAS:030869 at location { type=HANDS item=FAMAS:030831 parent=eAI_SurvivorF_Eva:048 }
+SCRIPT       : 18:24:30.367 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created Mag_FAMAS_25Rnd:030819 at location { type=ATTACHMENT item=null parent=FAMAS:030869 slot=magazine }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Shemagh_Red:018597 parent=SurvivorF_Maria:046 }
+SCRIPT       : DZSM ~ DayZServerManagerWatcher() - INIT
+SCRIPT       : DZSM ~ Loading API Config
+SCRIPT       : DZSM ~ DayZServerManagerWatcher() - INIT DONE
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:26:41.531 [EXPANSION DEBUG]: ExpansionZodiacBoat<277578a0>::ExpansionSetLastDriverUID - RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:26:42.531 [EXPANSION DEBUG]: ExpansionZodiacBoat<277578a0>::ExpansionResetLastDriverUIDSynch
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:38:45.765 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:38:45.765 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:38:47.054 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:38:47.054 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:39:15.390 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:39:15.390 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:39:28.335 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:39:28.335 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:43:23.601 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:43:23.601 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:44:07.375 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:44:07.375 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:46:10.750 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:10.750 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:10.750 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:10.750 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 9 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:15.281 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:15.281 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:15.289 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:15.289 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 9 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:46:23.632 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:23.632 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:23.640 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:46:23.640 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 9 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:47:17.601 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:47:17.601 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:47:17.609 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:47:17.609 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 8 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:47:17.609 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:47:17.609 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 9 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:47:31.617 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:47:31.617 [EXPANSION DEBUG]: ExpansionQuestModule<7265dc20> Sending player quest data for quest ID 9 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : [Logout]: New player RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= with logout time 15
+SCRIPT       : Player "[BF] DarkShy" (steamid=76561198968682215) initiated disconnect process...
+SCRIPT       : [emote] SurvivorF_Maria:046 play emote id=14 IH=null
+SCRIPT       : Player "[BF] DarkShy" (steamid=76561198968682215) disconnected early from server (EXIT NOW).
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:54:00.054 [EXPANSION DEBUG]: ExpansionQuestPersistentData<3d098a50> ~ExpansionQuestPersistentData (4)
+SCRIPT       : [Logout]: Player RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= finished
+SCRIPT       : PlayerDisconnected -> PlayerListManager.RemoveEntry ► RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
