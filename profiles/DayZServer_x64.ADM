@@ -18,3 +18,25 @@ AdminLog started on 2023-11-21 at 18:02:22
 
 ******************************************************************************
 AdminLog started on 2023-11-21 at 18:10:29
+18:14:26 | Player "[BF] DarkShy" is connected (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=)
+18:16:46 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605, 13747.2, 5.7>)[HP: 93.5] hit by Зараженный into Torso(1) for 6.5 damage (MeleeInfected)
+18:16:47 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13606, 13746.4, 5.7>)[HP: 91.9563] hit by Зараженный into LeftLeg(8) for 6.175 damage (MeleeInfected)
+18:16:49 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.9, 13746.5, 5.7>)[HP: 91.3963] hit by Зараженный into RightArm(17) for 6.5 damage (MeleeInfected)
+18:16:52 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.2, 13746.8, 5.7>)[HP: 90.8363] hit by Зараженный into LeftArm(18) for 6.5 damage (MeleeInfected)
+18:16:53 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.2, 13745.5, 5.6>)[HP: 88.8176] hit by Зараженный into LeftLeg(8) for 8.075 damage (MeleeInfectedLong)
+18:16:54 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.4, 13745.5, 5.7>)[HP: 88.1675] hit by Зараженный into LeftArm(18) for 6.5 damage (MeleeInfected)
+18:16:55 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.7, 13745, 5.6>)[HP: 87.4076] hit by Зараженный into RightArm(17) for 8.5 damage (MeleeInfectedLong)
+18:16:55 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.7, 13744.9, 5.6>)[HP: 78.9076] hit by Зараженный into Torso(1) for 8.5 damage (MeleeInfectedLong)
+18:16:55 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.6, 13744.8, 5.6>) is unconscious
+18:16:56 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.3, 13744.5, 5.6>)[HP: 78.2576] hit by Зараженный into RightArm(17) for 6.5 damage (MeleeInfected)
+18:16:56 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.2, 13744.4, 5.6>)[HP: 71.7576] hit by Зараженный into Torso(1) for 6.5 damage (MeleeInfected)
+18:16:56 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.1, 13744.2, 5.6>)[HP: 70.2138] hit by Зараженный into RightLeg(3) for 6.175 damage (MeleeInfected)
+18:16:56 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.2, 13744.1, 5.6>)[HP: 68.6701] hit by Зараженный into LeftLeg(8) for 6.175 damage (MeleeInfected)
+18:16:57 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.4, 13743.9, 5.6>)[HP: 68.0201] hit by Зараженный into LeftArm(18) for 6.5 damage (MeleeInfected)
+18:16:58 | Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.7, 13743.5, 5.6>)[HP: 67.459] hit by Зараженный into RightArm(17) for 6.5 damage (MeleeInfected)
+18:17:05 | Player "[BF] DarkShy" (DEAD) (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= pos=<13605.8, 13743.4, 5.6>) died. Stats> Water: 461.472 Energy: 459.499 Bleed sources: 0
+18:21:35 | Player "[BF] DarkShy"(id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-11-21 at 18:22:10

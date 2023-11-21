@@ -643,3 +643,76 @@ SCRIPT       : 18:12:08.023 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone -
 SCRIPT       : 18:12:08.023 [EXPANSION DEBUG]: ExpansionItemSpawnHelper::Clone - created M4_OEBttstck:028384 at location { type=ATTACHMENT item=null parent=M4A1:028381 slot=weaponButtstockM4 }
 SCRIPT       : [emote] ExpansionQuestNPCAIElias:045 play emote id=14 IH=M4A1:028381
 SCRIPT       : WinterChernarus::Weather::Initialize::CozyRussianSnow
+SCRIPT       : WinterChernarus::Weather::Overcast:: ( 18.3509 )  overcast: 0.696349
+SCRIPT       : WinterChernarus::Weather::Overcast::Rain:: ( 18.3509 ) 0.0804491
+SCRIPT       : WinterChernarus::Weather::Fog:: ( 18.3509 ) 0.475317
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 18.451 ) 0.160823
+SCRIPT       : DZSM ~ DayZServerManagerWatcher() - INIT
+SCRIPT       : DZSM ~ Loading API Config
+SCRIPT       : DZSM ~ DayZServerManagerWatcher() - INIT DONE
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : [VPPAT] Player "[BF] DarkShy" (steamId=76561198968682215) connected to server!
+SCRIPT       : 18:14:57.296 [EXPANSION DEBUG]: ExpansionQuestModule<6d357d80> Sending 21 quest configs to client with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:14:57.296 [EXPANSION DEBUG]: ExpansionQuestModule<6d357d80> Sending player quest data for 4 quests to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:14:57.781 [EXPANSION DEBUG]: ExpansionQuestModule<6d357d80> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:14:57.781 [EXPANSION DEBUG]: ExpansionQuestModule<6d357d80> Sending player quest data for quest ID 14 to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 18.9342 ) 0.101654
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:17:04.687 [EXTRACE] +ExpansionKillFeedModule<1f048b50>::OnPlayerKilled SurvivorBase<4dc2f020> SurvivorBase<4dc2f020>
+SCRIPT       : 18:17:04.687 [EXTRACE] -ExpansionKillFeedModule<1f048b50>::OnPlayerKilled SurvivorBase<4dc2f020> SurvivorBase<4dc2f020> 0.3487 ms
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : 18:17:20.023 [EXPANSION DEBUG]: ExpansionQuestModule<6d357d80> Quest configs already synched for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : 18:17:20.023 [EXPANSION DEBUG]: ExpansionQuestModule<6d357d80> Sending player quest data for 4 quests to player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 19.231 ) 0.432505
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 19.6777 ) 0.20054
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : [Logout]: New player RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= with logout time 0
+SCRIPT       : Player "[BF] DarkShy" (steamid=76561198968682215) initiated disconnect process...
+SCRIPT       : 18:21:34.148 [EXPANSION DEBUG]: ExpansionQuestPersistentData<50b92e20> ~ExpansionQuestPersistentData (4)
+SCRIPT       : [Logout]: Player RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4= finished
+SCRIPT       : Player "[BF] DarkShy" (steamid=76561198968682215) disconnected from server.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 18:21:36.375 [EXPANSION DEBUG]: Clearing cached categories 82
+SCRIPT       : 18:21:36.375 [EXPANSION DEBUG]: Clearing cached traders 17
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : 18:21:36.390 [EXPANSION DEBUG]: ExpansionQuestPersistentData<50b91d90> ~ExpansionQuestPersistentData (0)
+SCRIPT       : ~DayZGame()

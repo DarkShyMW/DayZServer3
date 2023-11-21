@@ -1,5 +1,16 @@
 {
-    "players": [],
+    "players": [
+        {
+            "entryType": "PLAYER",
+            "type": "SurvivorF_Maria",
+            "category": "MAN",
+            "name": "[BF] DarkShy",
+            "id": 3006942,
+            "position": "8081.873535 7.891060 2928.499268",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        }
+    ],
     "vehicles": [
         {
             "entryType": "VEHICLE",
@@ -627,7 +638,7 @@
             "category": "AIR",
             "name": "",
             "id": 3000474,
-            "position": "4672.234375 342.646393 10360.939453",
+            "position": "4672.193359 342.616486 10360.864258",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         },
@@ -818,6 +829,36 @@
             "name": "",
             "id": 3000633,
             "position": "5030.673340 9.580875 2356.444336",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Hatchback_02_BanditKitty",
+            "category": "GROUND",
+            "name": "",
+            "id": 3006188,
+            "position": "10226.191406 65.019562 4077.436523",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "Hatchback_02_BanditKitty",
+            "category": "GROUND",
+            "name": "",
+            "id": 3006195,
+            "position": "13354.952148 5.969821 5440.331543",
+            "speed": "0.000000 0.000000 0.000000",
+            "damage": 0.0
+        },
+        {
+            "entryType": "VEHICLE",
+            "type": "ExpansionZodiacBoat_Black",
+            "category": "SEA",
+            "name": "",
+            "id": 3006466,
+            "position": "14299.658203 0.219356 13242.289063",
             "speed": "0.000000 0.000000 0.000000",
             "damage": 0.0
         }

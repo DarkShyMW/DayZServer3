@@ -32039,3 +32039,980 @@ Version 1.23.156951
 18:12:35.713 Average server FPS: 5113.17 (measured interval: 30 s)
 18:12:35.713 Used memory: 2601486 KB
 18:12:35.713 Players: 0 in total
+18:12:35.824 Warning: No components in dz\water\ponds\moss\pond_big_37_03_moss.p3d:geometry
+18:12:35.824 Warning: No components in dz\water\ponds\moss\pond_big_31_03_moss.p3d:geometry
+18:12:35.824 Warning: No components in dz\water\ponds\moss\pond_big_31_04_moss.p3d:geometry
+18:12:35.824 Warning: No components in dz\water\ponds\moss\pond_big_37_01_moss.p3d:geometry
+18:12:35.825 Warning: No components in dz\water\ponds\moss\pond_big_31_02_moss.p3d:geometry
+18:12:35.825 Warning: No components in dz\water\ponds\moss\pond_big_31_01_moss.p3d:geometry
+18:12:35.825 Warning: No components in dz\water\ponds\moss\pond_small_15_moss.p3d:geometry
+18:12:35.826 Warning: No components in dz\water\ponds\moss\pond_big_34_01_moss.p3d:geometry
+18:12:35.826 Warning: No components in dz\water\ponds\moss\pond_big_34_03_moss.p3d:geometry
+18:12:35.826 Warning: No components in dz\water\ponds\moss\pond_big_37_02_moss.p3d:geometry
+18:12:35.826 Warning: No components in dz\water\ponds\moss\pond_big_36_04_moss.p3d:geometry
+18:12:35.826 Warning: No components in dz\water\ponds\moss\pond_big_36_03_moss.p3d:geometry
+18:12:35.826 Warning: No components in dz\water\ponds\moss\pond_big_36_01_moss.p3d:geometry
+18:12:35.827 Warning: No components in dz\water\ponds\moss\pond_big_36_02_moss.p3d:geometry
+18:12:35.827 Warning: No components in dz\water\ponds\moss\pond_big_34_02_moss.p3d:geometry
+18:12:35.827 Warning: No components in dz\water\ponds\moss\pond_big_34_04_moss.p3d:geometry
+18:12:36.00 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:12:36.827 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+18:12:36.830 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:12:37.134 Warning: No components in dz\water\ponds\moss\pond_big_29_01_moss.p3d:geometry
+18:12:37.134 Warning: No components in dz\water\ponds\moss\pond_big_29_02_moss.p3d:geometry
+18:12:37.135 Warning: No components in dz\water\ponds\moss\pond_small_08_moss.p3d:geometry
+18:12:37.135 Warning: No components in dz\water\ponds\moss\pond_big_28_03_moss.p3d:geometry
+18:12:37.135 Warning: No components in dz\water\ponds\moss\pond_big_28_01_moss.p3d:geometry
+18:12:37.265 Warning: No components in dz\water\ponds\moss\pond_big_28_04_moss.p3d:geometry
+18:12:37.266 Warning: No components in dz\water\ponds\moss\pond_big_28_02_moss.p3d:geometry
+18:12:37.526 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+18:12:43.146 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+18:12:43.664 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+18:12:44.619 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+18:12:44.840 Warning: No components in dz\water\ponds\moss\pond_small_03_moss.p3d:geometry
+18:12:44.848 Warning: No components in dz\water\ponds\moss\pond_small_25_moss.p3d:geometry
+18:12:44.848 Warning: No components in dz\water\ponds\moss\pond_small_26_moss.p3d:geometry
+18:12:44.848 Warning: No components in dz\water\ponds\moss\pond_small_19_moss.p3d:geometry
+18:12:44.849 Warning: No components in dz\water\ponds\moss\pond_small_18_moss.p3d:geometry
+18:12:44.849 Warning: No components in dz\water\ponds\moss\pond_big_33_01_moss.p3d:geometry
+18:12:44.849 Warning: No components in dz\water\ponds\moss\pond_big_33_02_moss.p3d:geometry
+18:12:44.849 Warning: No components in dz\water\ponds\moss\pond_small_16_moss.p3d:geometry
+18:12:44.851 Warning: No components in dz\water\ponds\moss\pond_small_27_moss.p3d:geometry
+18:12:44.851 Warning: No components in dz\water\ponds\moss\pond_big_33_03_moss.p3d:geometry
+18:12:48.22 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+18:12:53.359 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:12:57.709 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+18:12:59.677 Warning: No components in dz\water\streambed\misc\stones_moss_group_3.p3d:geometryFire
+18:13:04.991 Warning: No components in dz\water\ponds\pond_small_21.p3d:geometry
+18:13:05.375 PerfWarning: Way too much components (753) in dz\structures\specific\lunapark\lunapark_carousel_swan.p3d:geometryFire
+18:13:05.376 PerfWarning: Way too much components (595) in dz\structures\specific\lunapark\lunapark_carousel_swan.p3d:geometryView
+18:13:05.713 Average server FPS: 4565.77 (measured interval: 30 s)
+18:13:05.713 Used memory: 2694169 KB
+18:13:05.713 Players: 0 in total
+18:13:07.915 Warning: No components in dz\water\ponds\pond_small_05.p3d:geometry
+18:13:14.367 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:13:17.689 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:13:22.712 dz\structures\specific\castles\castle_stairs_top_nolc.p3d: house, config class missing
+18:13:25.390 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+18:13:25.392 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:13:26.407 !!! No animSource for doors Land_Wreck_hb01_aban2_white :: door 3, check model+config
+18:13:27.238 Warning: No components in dz\water\ponds\moss\pond_small_01_moss.p3d:geometry
+18:13:28.624 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+18:13:35.716 Average server FPS: 4799.55 (measured interval: 30 s)
+18:13:35.716 Used memory: 2757063 KB
+18:13:35.716 Players: 0 in total
+18:13:37.651 Warning: No components in dz\structures\military\airfield\mil_aircraftshelter_grass_l.p3d:geometry
+18:13:37.659 Warning: No components in dz\structures\military\airfield\mil_aircraftshelter_grass_r.p3d:geometry
+18:13:41.354 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+18:13:51.876 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+18:13:51.877 !!! No animSource for doors Land_Wreck_hb01_aban1_blue :: door 3, check model+config
+18:13:56.391 !!! No animSource for doors Land_Wreck_hb01_aban1_green :: door 3, check model+config
+18:13:59.981 Warning: No components in dz\structures\specific\lunapark\proxy\lunapark_autodrome_roof_lod1_lod2.p3d:geometry
+18:13:59.983 !!! No animSource for doors Land_Wreck_hb01_aban2_blue :: door 3, check model+config
+18:14:05.715 Average server FPS: 4820.77 (measured interval: 30 s)
+18:14:05.715 Used memory: 2805340 KB
+18:14:05.715 Players: 0 in total
+18:14:06.303 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:14:19.436 Warning: No components in dz\water\ponds\pond_small_10.p3d:geometry
+18:14:21.204 PerfWarning: Way too much components (954) in dz\structures\industrial\cementworks\cementworks_millb.p3d:geometryFire
+18:14:22.168 !!! No animSource for doors Land_Wreck_hb01_aban2_white :: door 3, check model+config
+18:14:23.71 [Login]: Adding player [BF] DarkShy (28500536) to login queue at position 0
+18:14:23.71 [LoginMachine]: Add player [BF] DarkShy (28500536 93.95.161.26:2316)
+18:14:23.71 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid ) Entering AuthPlayerLoginState
+18:14:23.72 Server: SetClientState dpid=28500536 id=0 name=[BF] DarkShy CREATED -> CONNECTED
+18:14:23.960 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid ) Entering WaitAuthPlayerLoginState
+18:14:25.458 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:14:26.513 Игрок [BF] DarkShy присоединился (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=).
+18:14:26.513 Player "[BF] DarkShy" is connected (steamID=76561198968682215)
+18:14:26.514 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid ) Entering WaitPlayerAssignedLoginState
+18:14:26.564 [IdleMode] Leaving OUT
+18:14:27.319 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) Entering DBGetLoginTimeLoginState
+18:14:27.403 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) Entering DBWaitLoginTimeLoginState
+18:14:29.992 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+18:14:35.716 Average server FPS: 5109.87 (measured interval: 30 s)
+18:14:35.716 Used memory: 2867543 KB
+18:14:35.716 Players: 1 in total
+18:14:42.403 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) Entering DBGetCharacterLoginState
+18:14:42.404 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) Entering CreateNetObjectsLoginState
+18:14:42.404 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: EastElektro | idx: 3 (ut: 252860 | lt: 360000 | ctr: -1)
+18:14:42.404 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: EastElektro | idx: 3 (ct: 252860 | ut: 252860 | lt: 360000 | ctr: -1)
+18:14:42.404 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: EastElektro index: 3 (lt: 360000 | ctr: -1)
+18:14:42.404 Server: SetClientState dpid=28500536 id=0 name=[BF] DarkShy PLAYER ASSIGNED -> MISSION RECEIVED
+18:14:42.407 Server: SetClientState dpid=28500536 id=0 name=[BF] DarkShy MISSION RECEIVED -> GAME LOADED
+18:14:42.407 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) Entering PreloadCamLoginState
+18:14:42.407 Login: Player [BF] DarkShy (28500536) preloading at: 10822.804688 0.000000 2377.397705, yaw: 0.000000, new: 1
+18:14:42.407 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) Entering WaitPreloadCamLoginState
+18:14:48.586 Warning Message: No entry 'bin\config.bin/CfgVehicles/TrackSuitJacket_ColorBase/DamageSystem.DamageZones'.
+18:14:48.587 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "WinterGear_TrackSuitJacket"
+18:14:48.687 Warning Message: No entry 'bin\config.bin/CfgVehicles/TrackSuitPants_ColorBase/DamageSystem.DamageZones'.
+18:14:48.786 Warning Message: Cannot open object dz\weapons\projectiles\arrow_hunting_flying.p3d
+18:14:48.886 Warning Message: No entry 'bin\config.bin/CfgVehicles/Spraycan_ColorBase/DamageSystem.DamageZones'.
+18:14:48.987 Warning Message: No entry 'bin\config.bin/CfgVehicles/Raincoat_ColorBase/DamageSystem.DamageZones'.
+18:14:49.86 Warning Message: No entry 'bin\config.bin/CfgVehicles/Ushanka_ColorBase/DamageSystem.DamageZones'.
+18:14:49.186 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+18:14:49.286 Warning: No components in ttc_pistols\deagle\ttc_ammostack50ae.p3d:geometry
+18:14:49.386 Warning: No components in ttc_rifles\mp44\mp44_ammo.p3d:geometry
+18:14:49.586 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_338mm_10Rnd/DamageSystem.DamageZones'.
+18:14:49.588 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "TTC_AmmoBox_338mm_10Rnd"
+18:14:49.786 Warning Message: No entry 'bin\config.bin/CfgVehicles/QuiltedJacket_ColorBase/DamageSystem.DamageZones'.
+18:14:49.787 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.787 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.788 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "WinterGear_QuiltedJacket"
+18:14:49.886 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_300blk_20rnd/DamageSystem.DamageZones'.
+18:14:49.987 Warning Message: No entry 'bin\config.bin/CfgVehicles/TacticalGloves_ColorBase/DamageSystem.DamageZones'.
+18:14:49.988 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "WinterGear_TacticalGloves"
+18:14:50.86 Warning Message: No entry 'bin\config.bin/CfgVehicles/FlipFlops_Colorbase/DamageSystem.DamageZones'.
+18:14:50.97 Warning: No components in windstrideclothing\models\flip_flops\flipflops_m.p3d:geometry
+18:14:50.101 Warning: No components in windstrideclothing\models\flip_flops\flipflops_f.p3d:geometry
+18:14:50.186 Warning: No components in ttc_smg\mp7a1\ttc_4630.p3d:geometry
+18:14:50.187 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "TTC_Ammo_4630"
+18:14:50.286 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_4570_20Rnd/DamageSystem.DamageZones'.
+18:14:50.386 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_3006_20Rnd/DamageSystem.DamageZones'.
+18:14:50.486 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_303_20Rnd/DamageSystem.DamageZones'.
+18:14:57.819 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) Entering GetNewCharLoginState
+18:14:57.821 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable 865704624
+
+18:14:57.821 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable 865704672
+
+18:14:57.821 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable 865704720
+
+18:14:57.821 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable 865704768
+
+18:14:57.823 Warning Message: Bad vehicle type 
+18:14:57.823 Warning Message: Bad vehicle type 
+18:14:57.823 Warning Message: Bad vehicle type 
+18:14:57.823 Warning Message: Bad vehicle type 
+18:14:57.823 Warning Message: Bad vehicle type 
+18:14:57.823 Warning Message: Bad vehicle type 
+18:14:57.824 Warning Message: Bad vehicle type 
+18:14:57.824 Warning Message: No entry 'bin\config.bin/CfgVehicles/Rag/DamageSystem.DamageZones'.
+18:14:57.824 Warning Message: No entry 'bin\config.bin/CfgVehicles/StoneKnife/DamageSystem.DamageZones'.
+18:14:57.824 Warning Message: No entry 'bin\config.bin/CfgVehicles/Apple/DamageSystem.DamageZones'.
+18:14:57.831 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 28500536
+    uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:14:57.833 String "STR_DN_UNKNOWN" not found (not in localization table)
+18:14:57.886 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotCalm/BehaviourZombieCalm/SoundsDuring/Sound1.sounds'.
+18:14:57.886 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsEntering/Sound1.sounds'.
+18:14:57.886 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsDuring/Sound1.sounds'.
+18:14:57.887 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_SurvivorNormal_Orange.P3DAttachments'.
+18:14:57.887 Warning Message: No entry '.P3DProxies'.
+18:14:57.887 Warning Message: No entry '.BoneNames'.
+18:14:57.887 Warning Message: Size: '/' not an array
+18:14:57.887 Warning Message: Size: '/' not an array
+18:14:57.887 Warning Message: Size: '/' not an array
+18:14:57.888 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotCalm/BehaviourZombieCalm/SoundsDuring/Sound1.sounds'.
+18:14:57.888 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsEntering/Sound1.sounds'.
+18:14:57.888 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsDuring/Sound1.sounds'.
+18:14:57.888 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_CitizenASkinny_Brown.P3DAttachments'.
+18:14:57.888 Warning Message: No entry '.P3DProxies'.
+18:14:57.888 Warning Message: No entry '.BoneNames'.
+18:14:57.888 Warning Message: Size: '/' not an array
+18:14:57.888 Warning Message: Size: '/' not an array
+18:14:57.888 Warning Message: Size: '/' not an array
+18:14:57.890 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_Clerk_Normal_Green.P3DAttachments'.
+18:14:57.890 Warning Message: No entry '.P3DProxies'.
+18:14:57.890 Warning Message: No entry '.BoneNames'.
+18:14:57.890 Warning Message: Size: '/' not an array
+18:14:57.890 Warning Message: Size: '/' not an array
+18:14:57.890 Warning Message: Size: '/' not an array
+18:14:57.891 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_SkaterYoung_Blue.P3DAttachments'.
+18:14:57.891 Warning Message: No entry '.P3DProxies'.
+18:14:57.891 Warning Message: No entry '.BoneNames'.
+18:14:57.891 Warning Message: Size: '/' not an array
+18:14:57.891 Warning Message: Size: '/' not an array
+18:14:57.891 Warning Message: Size: '/' not an array
+18:14:57.893 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_CommercialPilotOld_Grey.P3DAttachments'.
+18:14:57.893 Warning Message: No entry '.P3DProxies'.
+18:14:57.893 Warning Message: No entry '.BoneNames'.
+18:14:57.893 Warning Message: Size: '/' not an array
+18:14:57.893 Warning Message: Size: '/' not an array
+18:14:57.893 Warning Message: Size: '/' not an array
+18:14:57.894 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_MotobikerFat_Black.P3DAttachments'.
+18:14:57.894 Warning Message: No entry '.P3DProxies'.
+18:14:57.894 Warning Message: No entry '.BoneNames'.
+18:14:57.894 Warning Message: Size: '/' not an array
+18:14:57.894 Warning Message: Size: '/' not an array
+18:14:57.894 Warning Message: Size: '/' not an array
+18:14:57.895 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_ShortSkirt_stripes.P3DAttachments'.
+18:14:57.895 Warning Message: No entry '.P3DProxies'.
+18:14:57.895 Warning Message: No entry '.BoneNames'.
+18:14:57.895 Warning Message: Size: '/' not an array
+18:14:57.895 Warning Message: Size: '/' not an array
+18:14:57.895 Warning Message: Size: '/' not an array
+18:14:57.897 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_ShortSkirt_Black.P3DAttachments'.
+18:14:57.897 Warning Message: No entry '.P3DProxies'.
+18:14:57.897 Warning Message: No entry '.BoneNames'.
+18:14:57.897 Warning Message: Size: '/' not an array
+18:14:57.897 Warning Message: Size: '/' not an array
+18:14:57.897 Warning Message: Size: '/' not an array
+18:14:57.898 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_ClerkFat_Brown.P3DAttachments'.
+18:14:57.898 Warning Message: No entry '.P3DProxies'.
+18:14:57.898 Warning Message: No entry '.BoneNames'.
+18:14:57.898 Warning Message: Size: '/' not an array
+18:14:57.898 Warning Message: Size: '/' not an array
+18:14:57.898 Warning Message: Size: '/' not an array
+18:14:57.900 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_JournalistNormal_White.P3DAttachments'.
+18:14:57.900 Warning Message: No entry '.P3DProxies'.
+18:14:57.900 Warning Message: No entry '.BoneNames'.
+18:14:57.900 Warning Message: Size: '/' not an array
+18:14:57.900 Warning Message: Size: '/' not an array
+18:14:57.900 Warning Message: Size: '/' not an array
+18:14:57.901 Warning Message: No entry 'bin\config.bin/CfgVehicles/FurCourierBag/DamageSystem.DamageZones'.
+18:14:57.902 Warning: No components in dz\characters\backpacks\impcourierbagfur_m.p3d:geometry
+18:14:57.902 Warning: No components in dz\characters\backpacks\impcourierbagfur_f.p3d:geometry
+18:14:57.903 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_HandymanNormal_Grey.P3DAttachments'.
+18:14:57.903 Warning Message: No entry '.P3DProxies'.
+18:14:57.903 Warning Message: No entry '.BoneNames'.
+18:14:57.903 Warning Message: Size: '/' not an array
+18:14:57.903 Warning Message: Size: '/' not an array
+18:14:57.903 Warning Message: Size: '/' not an array
+18:14:57.905 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_BlueCollarFat_Blue.P3DAttachments'.
+18:14:57.905 Warning Message: No entry '.P3DProxies'.
+18:14:57.905 Warning Message: No entry '.BoneNames'.
+18:14:57.905 Warning Message: Size: '/' not an array
+18:14:57.905 Warning Message: Size: '/' not an array
+18:14:57.905 Warning Message: Size: '/' not an array
+18:14:57.906 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_BlueCollarFat_Red.P3DAttachments'.
+18:14:57.906 Warning Message: No entry '.P3DProxies'.
+18:14:57.906 Warning Message: No entry '.BoneNames'.
+18:14:57.906 Warning Message: Size: '/' not an array
+18:14:57.906 Warning Message: Size: '/' not an array
+18:14:57.906 Warning Message: Size: '/' not an array
+18:14:57.906 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_BlueCollarFat_White.P3DAttachments'.
+18:14:57.906 Warning Message: No entry '.P3DProxies'.
+18:14:57.906 Warning Message: No entry '.BoneNames'.
+18:14:57.906 Warning Message: Size: '/' not an array
+18:14:57.906 Warning Message: Size: '/' not an array
+18:14:57.906 Warning Message: Size: '/' not an array
+18:14:57.907 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotCalm/BehaviourZombieCalm/SoundsDuring/Sound1.sounds'.
+18:14:57.907 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsEntering/Sound1.sounds'.
+18:14:57.907 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsDuring/Sound1.sounds'.
+18:14:57.907 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_priestPopSkinny.P3DAttachments'.
+18:14:57.907 Warning Message: No entry '.P3DProxies'.
+18:14:57.907 Warning Message: No entry '.BoneNames'.
+18:14:57.907 Warning Message: Size: '/' not an array
+18:14:57.907 Warning Message: Size: '/' not an array
+18:14:57.907 Warning Message: Size: '/' not an array
+18:14:57.909 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_Jacket_bluechecks.P3DAttachments'.
+18:14:57.909 Warning Message: No entry '.P3DProxies'.
+18:14:57.909 Warning Message: No entry '.BoneNames'.
+18:14:57.909 Warning Message: Size: '/' not an array
+18:14:57.909 Warning Message: Size: '/' not an array
+18:14:57.909 Warning Message: Size: '/' not an array
+18:14:57.910 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotCalm/BehaviourZombieCalm/SoundsDuring/Sound1.sounds'.
+18:14:57.910 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsEntering/Sound1.sounds'.
+18:14:57.910 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsDuring/Sound1.sounds'.
+18:14:57.910 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_JoggerSkinny_Red.P3DAttachments'.
+18:14:57.910 Warning Message: No entry '.P3DProxies'.
+18:14:57.910 Warning Message: No entry '.BoneNames'.
+18:14:57.910 Warning Message: Size: '/' not an array
+18:14:57.910 Warning Message: Size: '/' not an array
+18:14:57.910 Warning Message: Size: '/' not an array
+18:14:57.911 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_VillagerOld_Blue.P3DAttachments'.
+18:14:57.911 Warning Message: No entry '.P3DProxies'.
+18:14:57.911 Warning Message: No entry '.BoneNames'.
+18:14:57.911 Warning Message: Size: '/' not an array
+18:14:57.911 Warning Message: Size: '/' not an array
+18:14:57.911 Warning Message: Size: '/' not an array
+18:14:57.913 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_MilkMaidOld_Green.P3DAttachments'.
+18:14:57.913 Warning Message: No entry '.P3DProxies'.
+18:14:57.913 Warning Message: No entry '.BoneNames'.
+18:14:57.913 Warning Message: Size: '/' not an array
+18:14:57.913 Warning Message: Size: '/' not an array
+18:14:57.913 Warning Message: Size: '/' not an array
+18:15:05.716 Average server FPS: 8623.93 (measured interval: 30 s)
+18:15:05.716 Used memory: 2885760 KB
+18:15:05.716 Players: 1 in total
+18:15:06.820 Warning Message: No entry 'bin\config.bin/CfgVehicles/Animal_GallusGallusDomesticusF/DamageSystem.DamageZones'.
+18:15:06.820 Warning Message: No entry 'bin\config.bin/CfgVehicles/Animal_GallusGallusDomesticusF_White.P3DAttachments'.
+18:15:06.820 Warning Message: No entry '.P3DProxies'.
+18:15:06.820 Warning Message: No entry '.BoneNames'.
+18:15:06.820 Warning Message: Size: '/' not an array
+18:15:06.820 Warning Message: Size: '/' not an array
+18:15:06.820 Warning Message: Size: '/' not an array
+18:15:15.486 Warning Message: No entry 'bin\config.bin/CfgVehicles/CargoPants_ColorBase/DamageSystem.DamageZones'.
+18:15:15.586 Warning Message: No entry 'bin\config.bin/CfgVehicles/TaloonBag_ColorBase/DamageSystem.DamageZones'.
+18:15:15.686 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionGPS/DamageSystem.DamageZones'.
+18:15:15.787 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_AmmoBox_8mm_15rnd/DamageSystem.DamageZones'.
+18:15:15.888 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "Mag_Expansion_M9_15Rnd"
+18:15:15.986 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "TTC_Ammo_300blk"
+18:15:16.287 Warning Message: No entry 'bin\config.bin/CfgVehicles/BeanieHat_ColorBase/DamageSystem.DamageZones'.
+18:15:16.587 Warning Message: No entry 'bin\config.bin/CfgWeapons/Mosin9130_Base/Single.autoFire'.
+18:15:16.587 Warning Message: Trying to access error value.
+18:15:16.587 Warning Message: No entry 'bin\config.bin/CfgWeapons/Mosin9130_Base/Single.burst'.
+18:15:16.587 Warning Message: Trying to access error value.
+18:15:16.587 Warning Message: No entry 'bin\config.bin/CfgWeapons/Mosin9130_Base/Single.soundContinuous'.
+18:15:16.587 Warning Message: Trying to access error value.
+18:15:16.587 Warning Message: No entry 'bin\config.bin/CfgWeapons/Mosin9130_Base/Single.barrelArmor'.
+18:15:16.587 Warning Message: Trying to access error value.
+18:15:16.590 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "WinterGear_Mosin"
+18:15:16.687 Warning Message: No entry 'bin\config.bin/CfgVehicles/CargoPants_ColorBase/DamageSystem.DamageZones'.
+18:15:16.688 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "WinterGear_CargoPants_camo"
+18:15:16.786 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_8mm_20Rnd/DamageSystem.DamageZones'.
+18:15:16.887 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Mag_Expansion_Kedr_20Rnd"
+18:15:16.989 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Mag_Expansion_Taser"
+18:15:17.88 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Mag_Expansion_MPX_50Rnd"
+18:15:17.187 Warning Message: No entry 'bin\config.bin/CfgWeapons/ExpansionCrossbow_Base/Single.autoFire'.
+18:15:17.187 Warning Message: Trying to access error value.
+18:15:17.187 Warning Message: No entry 'bin\config.bin/CfgWeapons/ExpansionCrossbow_Base/Single.burst'.
+18:15:17.187 Warning Message: Trying to access error value.
+18:15:17.187 Warning Message: No entry 'bin\config.bin/CfgWeapons/ExpansionCrossbow_Base/Single.soundContinuous'.
+18:15:17.187 Warning Message: Trying to access error value.
+18:15:17.187 Warning Message: No entry 'bin\config.bin/CfgWeapons/ExpansionCrossbow_Base/Single.barrelArmor'.
+18:15:17.187 Warning Message: Trying to access error value.
+18:15:17.286 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_4630_20Rnd/DamageSystem.DamageZones'.
+18:15:17.289 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "TTC_AmmoBox_4630_20Rnd"
+18:15:17.387 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_792x33_20Rnd/DamageSystem.DamageZones'.
+18:15:18.185 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:15:35.716 Average server FPS: 6187.03 (measured interval: 30 s)
+18:15:35.716 Used memory: 2893356 KB
+18:15:35.716 Players: 1 in total
+18:15:42.399 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "TTC_Ammo_338"
+18:15:42.798 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_FoodBase/DamageSystem.DamageZones'.
+18:15:42.898 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_FoodBase/DamageSystem.DamageZones'.
+18:15:42.999 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_FoodBase/DamageSystem.DamageZones'.
+18:15:43.99 Warning Message: No entry 'bin\config.bin/CfgVehicles/WaterBottle/DamageSystem.DamageZones'.
+18:15:43.199 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_FoodBase/DamageSystem.DamageZones'.
+18:15:43.298 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_ColorBase/DamageSystem.DamageZones'.
+18:15:43.298 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_Black.ClothingTypes'.
+18:15:43.399 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_ColorBase/DamageSystem.DamageZones'.
+18:15:43.399 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_White.ClothingTypes'.
+18:15:43.598 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Kar98_Base/SemiAuto.autoFire'.
+18:15:43.598 Warning Message: Trying to access error value.
+18:15:43.598 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Kar98_Base/SemiAuto.burst'.
+18:15:43.598 Warning Message: Trying to access error value.
+18:15:43.598 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Kar98_Base/SemiAuto.soundContinuous'.
+18:15:43.598 Warning Message: Trying to access error value.
+18:15:43.598 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Kar98_Base/SemiAuto.barrelArmor'.
+18:15:43.598 Warning Message: Trying to access error value.
+18:15:43.598 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Kar98_Base/OpticsInfo.opticsZoomMin'.
+18:15:43.598 Warning Message: Trying to access error value.
+18:15:43.598 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Kar98_Base/OpticsInfo.opticsZoomMax'.
+18:15:43.598 Warning Message: Trying to access error value.
+18:15:43.598 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Kar98_Base/OpticsInfo.opticsZoomInit'.
+18:15:43.598 Warning Message: Trying to access error value.
+18:15:43.798 Warning Message: No entry 'bin\config.bin/CfgWeapons/Winchester1873_Base/Single.autoFire'.
+18:15:43.798 Warning Message: Trying to access error value.
+18:15:43.798 Warning Message: No entry 'bin\config.bin/CfgWeapons/Winchester1873_Base/Single.burst'.
+18:15:43.798 Warning Message: Trying to access error value.
+18:15:43.798 Warning Message: No entry 'bin\config.bin/CfgWeapons/Winchester1873_Base/Single.soundContinuous'.
+18:15:43.798 Warning Message: Trying to access error value.
+18:15:43.798 Warning Message: No entry 'bin\config.bin/CfgWeapons/Winchester1873_Base/Single.barrelArmor'.
+18:15:43.798 Warning Message: Trying to access error value.
+18:15:43.899 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_FoodBase/DamageSystem.DamageZones'.
+18:15:43.998 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_FoodBase/DamageSystem.DamageZones'.
+18:15:44.99 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_50Beo_20rnd/DamageSystem.DamageZones'.
+18:15:44.198 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_FoodBase/DamageSystem.DamageZones'.
+18:15:45.398 Warning Message: No entry 'bin\config.bin/CfgVehicles/SmallStone/DamageSystem.DamageZones'.
+18:15:46.12 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02_BanditKitty.viewDriverShadow'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02_BanditKitty.viewDriverShadowDiff'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02_BanditKitty.viewDriverShadowAmb'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02_BanditKitty.viewCargoShadow'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02_BanditKitty.viewCargoShadowDiff'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/Hatchback_02_BanditKitty.viewCargoShadowAmb'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/CarScript/Reflectors/Left.color'.
+18:15:46.12 Warning Message: Size: '/' not an array
+18:15:46.12 Warning Message: Size: '/' not an array
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/CarScript/Reflectors/Left.selection'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/CarScript/Reflectors/Left.position'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:15:46.12 Warning Message: No entry 'bin\config.bin/CfgVehicles/CarScript/Reflectors/Left.direction'.
+18:15:46.12 Warning Message: Trying to access error value.
+18:16:03.623 Warning Message: No entry 'bin\config.bin/CfgVehicles/Grenade_ChemGas/DamageSystem.DamageZones'.
+18:16:03.626 String "STR_DN_UNKNOWN" not found (not in localization table)
+18:16:05.715 Average server FPS: 6547.70 (measured interval: 30 s)
+18:16:05.715 Used memory: 2903075 KB
+18:16:05.715 Players: 1 in total
+18:16:09.298 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_ColorBase/DamageSystem.DamageZones'.
+18:16:09.298 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_Red.ClothingTypes'.
+18:16:09.498 Warning Message: No entry 'bin\config.bin/CfgVehicles/HuntingJacket_ColorBase/DamageSystem.DamageZones'.
+18:16:09.698 Warning Message: No entry 'bin\config.bin/CfgVehicles/MountainBag_ColorBase/DamageSystem.DamageZones'.
+18:16:09.898 Warning Message: No entry 'bin\config.bin/CfgVehicles/Layered_Shirt_Base/DamageSystem.DamageZones'.
+18:16:09.899 Warning Message: No entry 'bin\config.bin/CfgVehicles/Layered_Shirt_Base/DamageSystem.DamageZones'.
+18:16:09.911 Warning: No components in windstrideclothing\models\layered_shirt\layered_shirt_m.p3d:geometry
+18:16:09.918 Warning: No components in windstrideclothing\models\layered_shirt\layered_shirt_f.p3d:geometry
+18:16:10.00 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Ammo_Expansion_338"
+18:16:10.99 Warning Message: No entry 'bin\config.bin/CfgVehicles/TacticalShirt_ColorBase/DamageSystem.DamageZones'.
+18:16:10.198 Warning Message: No entry 'bin\config.bin/CfgVehicles/High_Knee_Sneakers/DamageSystem.DamageZones'.
+18:16:10.212 Warning: No components in windstrideclothing\models\high_knee_sneakers\high_knee_sneakers_m.p3d:geometry
+18:16:10.220 Warning: No components in windstrideclothing\models\high_knee_sneakers\high_knee_sneakers_f.p3d:geometry
+18:16:10.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_PP91_Base/FullAuto.burst'.
+18:16:10.299 Warning Message: Trying to access error value.
+18:16:10.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_PP91_Base/FullAuto.barrelArmor'.
+18:16:10.299 Warning Message: Trying to access error value.
+18:16:10.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_PP91_Base/SemiAuto.autoFire'.
+18:16:10.299 Warning Message: Trying to access error value.
+18:16:10.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_PP91_Base/SemiAuto.burst'.
+18:16:10.299 Warning Message: Trying to access error value.
+18:16:10.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_PP91_Base/SemiAuto.soundContinuous'.
+18:16:10.299 Warning Message: Trying to access error value.
+18:16:10.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_PP91_Base/SemiAuto.barrelArmor'.
+18:16:10.299 Warning Message: Trying to access error value.
+18:16:10.301 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "TTC_PP91"
+18:16:10.398 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "TTC_M16A4"
+18:16:10.499 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "TTC_Mag_Glock_17Rnd"
+18:16:10.598 Warning Message: No entry 'bin\config.bin/CfgVehicles/BalaclavaMask_ColorBase/DamageSystem.DamageZones'.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/FullAuto.burst'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/FullAuto.barrelArmor'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/SemiAuto.autoFire'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/SemiAuto.burst'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/SemiAuto.soundContinuous'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/SemiAuto.barrelArmor'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/Burst.autoFire'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/Burst.soundContinuous'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.699 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5_Base/Burst.barrelArmor'.
+18:16:10.699 Warning Message: Trying to access error value.
+18:16:10.715 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_MP5_RailAtt/DamageSystem.DamageZones'.
+18:16:10.798 Warning Message: No entry 'bin\config.bin/CfgVehicles/Layered_Shirt_Base/DamageSystem.DamageZones'.
+18:16:10.899 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "Ammo_Expansion_46x30"
+18:16:11.98 Warning Message: No entry 'bin\config.bin/CfgVehicles/Medium_Sleeves_Shirt/DamageSystem.DamageZones'.
+18:16:11.98 Warning Message: No entry 'bin\config.bin/CfgVehicles/Medium_Sleeves_Shirt/DamageSystem.DamageZones'.
+18:16:11.113 Warning: No components in windstrideclothing\models\medium_sleeves_shirt\medium_sleeves_shirt_m.p3d:geometry
+18:16:11.118 Warning: No components in windstrideclothing\models\medium_sleeves_shirt\medium_sleeves_shirt_f.p3d:geometry
+18:16:11.198 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+18:16:11.305 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_CitizenANormal_Brown.P3DAttachments'.
+18:16:11.305 Warning Message: No entry '.P3DProxies'.
+18:16:11.305 Warning Message: No entry '.BoneNames'.
+18:16:11.305 Warning Message: Size: '/' not an array
+18:16:11.305 Warning Message: Size: '/' not an array
+18:16:11.305 Warning Message: Size: '/' not an array
+18:16:11.309 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_MechanicSkinny_Grey.P3DAttachments'.
+18:16:11.309 Warning Message: No entry '.P3DProxies'.
+18:16:11.309 Warning Message: No entry '.BoneNames'.
+18:16:11.309 Warning Message: Size: '/' not an array
+18:16:11.309 Warning Message: Size: '/' not an array
+18:16:11.309 Warning Message: Size: '/' not an array
+18:16:11.310 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_HeavyIndustryWorker.P3DAttachments'.
+18:16:11.310 Warning Message: No entry '.P3DProxies'.
+18:16:11.310 Warning Message: No entry '.BoneNames'.
+18:16:11.310 Warning Message: Size: '/' not an array
+18:16:11.310 Warning Message: Size: '/' not an array
+18:16:11.310 Warning Message: Size: '/' not an array
+18:16:11.312 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_ConstrWorkerNormal_Green.P3DAttachments'.
+18:16:11.312 Warning Message: No entry '.P3DProxies'.
+18:16:11.312 Warning Message: No entry '.BoneNames'.
+18:16:11.312 Warning Message: Size: '/' not an array
+18:16:11.312 Warning Message: Size: '/' not an array
+18:16:11.312 Warning Message: Size: '/' not an array
+18:16:11.315 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_MechanicNormal_Grey.P3DAttachments'.
+18:16:11.315 Warning Message: No entry '.P3DProxies'.
+18:16:11.315 Warning Message: No entry '.BoneNames'.
+18:16:11.315 Warning Message: Size: '/' not an array
+18:16:11.315 Warning Message: Size: '/' not an array
+18:16:11.315 Warning Message: Size: '/' not an array
+18:16:11.316 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_HandymanNormal_White.P3DAttachments'.
+18:16:11.316 Warning Message: No entry '.P3DProxies'.
+18:16:11.316 Warning Message: No entry '.BoneNames'.
+18:16:11.316 Warning Message: Size: '/' not an array
+18:16:11.316 Warning Message: Size: '/' not an array
+18:16:11.316 Warning Message: Size: '/' not an array
+18:16:11.349 !!! No animSource for doors Land_Wreck_hb01_aban1_white :: door 3, check model+config
+18:16:14.100 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (1 < 3) within 9 attempts.
+18:16:35.716 Average server FPS: 6423.93 (measured interval: 30 s)
+18:16:35.716 Used memory: 2909332 KB
+18:16:35.716 Players: 1 in total
+18:16:35.998 CHAR_DEBUG - SAVE
+18:16:35.998     player [BF] DarkShy (dpnid = 28500536)
+18:16:35.998     Identity: playerID = 1 , charID = 1
+18:16:35.998     Person  : playerID = 1 , charID = 1
+18:16:35.999 Saved 1 players ...
+18:16:36.200 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "TTC_PP91_Mag_20rnd"
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/SemiAuto.autoFire'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/SemiAuto.burst'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/SemiAuto.soundContinuous'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/SemiAuto.barrelArmor'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/FullAuto.burst'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/FullAuto.barrelArmor'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/OpticsInfo.opticsZoomMin'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/OpticsInfo.opticsZoomMax'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.299 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_Vityaz_Base/OpticsInfo.opticsZoomInit'.
+18:16:36.299 Warning Message: Trying to access error value.
+18:16:36.399 Warning Message: No entry 'bin\config.bin/CfgVehicles/TacticalShirt_ColorBase/DamageSystem.DamageZones'.
+18:16:36.399 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "WinterGear_TacticalShirt_camo"
+18:16:36.498 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "Mag_Expansion_AWM_5rnd"
+18:16:36.599 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionGunrack/DamageSystem.DamageZones'.
+18:16:36.599 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionGunrack/Cargo.itemsCargoSize'.
+18:16:36.600 Convex "component03" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component04" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component05" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component06" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component07" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component08" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component09" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component10" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component11" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryFire
+18:16:36.600 Convex "component03" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.600 Convex "component04" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.600 Convex "component05" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.600 Convex "component06" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.600 Convex "component07" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.600 Convex "component08" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.600 Convex "component09" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.600 Convex "component10" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.600 Convex "component11" selection faces are less then 4 in dayzexpansion\objects\basebuilding\misc\gunrack\gunrack.p3d:geometryView
+18:16:36.798 Warning Message: No entry 'bin\config.bin/CfgVehicles/High_Knee_Sneakers/DamageSystem.DamageZones'.
+18:16:36.898 Warning Message: No entry 'bin\config.bin/CfgVehicles/Medium_Sleeves_Shirt/DamageSystem.DamageZones'.
+18:16:37.98 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+18:16:37.98 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+18:16:37.299 Warning Message: No entry 'bin\config.bin/CfgVehicles/Inventory_Base/DamageSystem.DamageZones'.
+18:16:37.398 Warning Message: No entry 'bin\config.bin/CfgVehicles/BoonieHat_ColorBase/DamageSystem.DamageZones'.
+18:16:37.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP7_Base/SemiAuto.autoFire'.
+18:16:37.499 Warning Message: Trying to access error value.
+18:16:37.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP7_Base/SemiAuto.burst'.
+18:16:37.499 Warning Message: Trying to access error value.
+18:16:37.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP7_Base/SemiAuto.soundContinuous'.
+18:16:37.499 Warning Message: Trying to access error value.
+18:16:37.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP7_Base/SemiAuto.barrelArmor'.
+18:16:37.499 Warning Message: Trying to access error value.
+18:16:37.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP7_Base/FullAuto.burst'.
+18:16:37.499 Warning Message: Trying to access error value.
+18:16:37.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP7_Base/FullAuto.barrelArmor'.
+18:16:37.499 Warning Message: Trying to access error value.
+18:16:37.529 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionHAMROptic/DamageSystem.DamageZones'.
+18:16:37.530 Warning: No components in dayzexpansion\objects\weapons\attachments\optics\hamr\hamr.p3d:geometry
+18:16:37.599 Warning Message: No entry 'bin\config.bin/CfgVehicles/Layered_Shirt_Base/DamageSystem.DamageZones'.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/FullAuto.burst'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/FullAuto.barrelArmor'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/SemiAuto.autoFire'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/SemiAuto.burst'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/SemiAuto.soundContinuous'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/SemiAuto.barrelArmor'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/Burst.autoFire'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/Burst.soundContinuous'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.799 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MP5SD/Burst.barrelArmor'.
+18:16:37.799 Warning Message: Trying to access error value.
+18:16:37.899 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MPX_Base/FullAuto.burst'.
+18:16:37.899 Warning Message: Trying to access error value.
+18:16:37.899 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MPX_Base/FullAuto.barrelArmor'.
+18:16:37.899 Warning Message: Trying to access error value.
+18:16:37.899 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MPX_Base/SemiAuto.autoFire'.
+18:16:37.899 Warning Message: Trying to access error value.
+18:16:37.899 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MPX_Base/SemiAuto.burst'.
+18:16:37.899 Warning Message: Trying to access error value.
+18:16:37.899 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MPX_Base/SemiAuto.soundContinuous'.
+18:16:37.899 Warning Message: Trying to access error value.
+18:16:37.899 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_MPX_Base/SemiAuto.barrelArmor'.
+18:16:37.899 Warning Message: Trying to access error value.
+18:16:37.999 Warning: No components in dayzexpansion\objects\weapons\firearms\rifles\g36\g36magazine.p3d:geometry
+18:16:38.202 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_FarmerFat_Beige.P3DAttachments'.
+18:16:38.202 Warning Message: No entry '.P3DProxies'.
+18:16:38.202 Warning Message: No entry '.BoneNames'.
+18:16:38.202 Warning Message: Size: '/' not an array
+18:16:38.202 Warning Message: Size: '/' not an array
+18:16:38.202 Warning Message: Size: '/' not an array
+18:16:38.205 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_VillagerOld_Green.P3DAttachments'.
+18:16:38.205 Warning Message: No entry '.P3DProxies'.
+18:16:38.205 Warning Message: No entry '.BoneNames'.
+18:16:38.205 Warning Message: Size: '/' not an array
+18:16:38.205 Warning Message: Size: '/' not an array
+18:16:38.205 Warning Message: Size: '/' not an array
+18:16:38.206 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_JoggerSkinny_Red.P3DAttachments'.
+18:16:38.206 Warning Message: No entry '.P3DProxies'.
+18:16:38.206 Warning Message: No entry '.BoneNames'.
+18:16:38.206 Warning Message: Size: '/' not an array
+18:16:38.206 Warning Message: Size: '/' not an array
+18:16:38.206 Warning Message: Size: '/' not an array
+18:16:43.802 DEFAULT   (E): AnimPhysCommandHumanMelee2:: Leaving melee hit without noticing
+
+18:16:57.719 String "STR_DN_UNKNOWN" not found (not in localization table)
+18:17:03.398 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_ColorBase/DamageSystem.DamageZones'.
+18:17:03.398 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_Brown.ClothingTypes'.
+18:17:03.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M9_Base/SemiAuto.autoFire'.
+18:17:03.499 Warning Message: Trying to access error value.
+18:17:03.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M9_Base/SemiAuto.burst'.
+18:17:03.499 Warning Message: Trying to access error value.
+18:17:03.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M9_Base/SemiAuto.soundContinuous'.
+18:17:03.499 Warning Message: Trying to access error value.
+18:17:03.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M9_Base/SemiAuto.barrelArmor'.
+18:17:03.499 Warning Message: Trying to access error value.
+18:17:03.699 Warning Message: No entry 'bin\config.bin/CfgVehicles/Layered_Shirt_Base/DamageSystem.DamageZones'.
+18:17:03.899 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionReflexMRSOptic/DamageSystem.DamageZones'.
+18:17:03.899 Warning Message: Animation source hide not found in bin\config.bin/CfgVehicles/ExpansionReflexMRSOptic/
+18:17:03.999 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_AmmoBox_50AE/DamageSystem.DamageZones'.
+18:17:04.318 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_ColorBase/DamageSystem.DamageZones'.
+18:17:04.319 Warning Message: No entry 'bin\config.bin/CfgVehicles/Shemagh_Green.ClothingTypes'.
+18:17:04.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/MAS36_base/Single.autoFire'.
+18:17:04.499 Warning Message: Trying to access error value.
+18:17:04.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/MAS36_base/Single.burst'.
+18:17:04.499 Warning Message: Trying to access error value.
+18:17:04.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/MAS36_base/Single.soundContinuous'.
+18:17:04.499 Warning Message: Trying to access error value.
+18:17:04.499 Warning Message: No entry 'bin\config.bin/CfgWeapons/MAS36_base/Single.barrelArmor'.
+18:17:04.499 Warning Message: Trying to access error value.
+18:17:04.698 Warning Message: No entry 'bin\config.bin/CfgVehicles/Blue_Leggings/DamageSystem.DamageZones'.
+18:17:04.711 Warning: No components in windstrideclothing\models\leggings\leggings_m.p3d:geometry
+18:17:04.718 Warning: No components in windstrideclothing\models\leggings\leggings_f.p3d:geometry
+18:17:04.798 Warning Message: No entry 'bin\config.bin/CfgVehicles/Purple_Leggings/DamageSystem.DamageZones'.
+18:17:04.899 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionKar98ScopeOptic/DamageSystem.DamageZones'.
+18:17:05.228 CHAR_DEBUG - KILL
+18:17:05.228     player [BF] DarkShy (dpnid = 28500536)
+18:17:05.228     Identity: playerID = 1 , charID = 1
+18:17:05.228     Person  : playerID = 1 , charID = 1
+18:17:05.229 Respawn: Add player [BF] DarkShy (28500536) to respawn machine
+18:17:05.229 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid ) Entering GetCharacterRespawnState
+18:17:05.230 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid ) Entering PreloadCamRespawnState
+18:17:05.232 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: EastElektro | idx: 3 (ct: 395688 | ut: 252860 | lt: 360000 | ctr: -1)
+18:17:05.232 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: EastElektro index: 3 (lt: 217172 | ctr: -1)
+18:17:05.232 Login: Player [BF] DarkShy (28500536) preloading at: 10772.804688 0.000000 2177.397705, yaw: 0.000000, new: 1
+18:17:05.232 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid ) Entering WaitPreloadCamRespawnState
+18:17:05.715 Average server FPS: 6500.33 (measured interval: 30 s)
+18:17:05.715 Used memory: 2921518 KB
+18:17:05.715 Players: 1 in total
+18:17:06.98 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:17:20.552 [StateMachine]: Player [BF] DarkShy (dpnid 28500536 uid ) Entering GetNewCharRespawnState
+18:17:20.555 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable 865704624
+
+18:17:20.555 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable 865704672
+
+18:17:20.555 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable 865704720
+
+18:17:20.555 ANIMATION (E): Graph dz/anims/workspaces/player/player_main/player_main.agr doesn't have variable 865704768
+
+18:17:20.558 Warning Message: Bad vehicle type 
+18:17:20.558 Warning Message: Bad vehicle type 
+18:17:20.558 Warning Message: Bad vehicle type 
+18:17:20.558 Warning Message: Bad vehicle type 
+18:17:20.558 Warning Message: Bad vehicle type 
+18:17:20.558 Warning Message: No entry 'bin\config.bin/CfgVehicles/Latex_Leggings/DamageSystem.DamageZones'.
+18:17:20.559 Warning Message: Bad vehicle type 
+18:17:20.559 Warning Message: Bad vehicle type 
+18:17:20.562 <RESPAWN NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 28500536
+    uid RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:17:20.703 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotCalm/BehaviourZombieCalm/SoundsDuring/Sound1.sounds'.
+18:17:20.703 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsEntering/Sound1.sounds'.
+18:17:20.703 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedFemale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsDuring/Sound1.sounds'.
+18:17:20.703 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_PoliceWomanNormal.P3DAttachments'.
+18:17:20.703 Warning Message: No entry '.P3DProxies'.
+18:17:20.703 Warning Message: No entry '.BoneNames'.
+18:17:20.703 Warning Message: Size: '/' not an array
+18:17:20.703 Warning Message: Size: '/' not an array
+18:17:20.703 Warning Message: Size: '/' not an array
+18:17:20.704 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotCalm/BehaviourZombieCalm/SoundsDuring/Sound1.sounds'.
+18:17:20.704 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsEntering/Sound1.sounds'.
+18:17:20.704 Warning Message: No entry 'bin\config.bin/CfgAIBehaviours/InfectedMale/BehaviourHLZombie/SlotAlerted/BehaviourZombieAlerted/SoundsDuring/Sound1.sounds'.
+18:17:20.704 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_PolicemanFat.P3DAttachments'.
+18:17:20.704 Warning Message: No entry '.P3DProxies'.
+18:17:20.704 Warning Message: No entry '.BoneNames'.
+18:17:20.704 Warning Message: Size: '/' not an array
+18:17:20.704 Warning Message: Size: '/' not an array
+18:17:20.704 Warning Message: Size: '/' not an array
+18:17:20.707 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_Jacket_magenta.P3DAttachments'.
+18:17:20.707 Warning Message: No entry '.P3DProxies'.
+18:17:20.707 Warning Message: No entry '.BoneNames'.
+18:17:20.707 Warning Message: Size: '/' not an array
+18:17:20.707 Warning Message: Size: '/' not an array
+18:17:20.707 Warning Message: Size: '/' not an array
+18:17:29.998 Warning Message: No entry 'bin\config.bin/CfgVehicles/Latex_White_Leggings/DamageSystem.DamageZones'.
+18:17:30.198 DamageSystem Warning: Selection dmgZone_window doesn't exists in fire geometry for entity ExpansionVodnikDoorCoDriver
+18:17:30.198 DamageSystem Warning: Selection dmgZone_doors doesn't exists in fire geometry for entity ExpansionVodnikDoorCoDriver
+18:17:30.398 Warning Message: No entry 'bin\config.bin/CfgVehicles/SK8_Sneakers_ColorBase/DamageSystem.DamageZones'.
+18:17:30.411 Warning: No components in windstrideclothing\models\sk8_sneakers\sk8_sneakers_m.p3d:geometry
+18:17:30.421 Warning: No components in windstrideclothing\models\sk8_sneakers\sk8_sneakers_f.p3d:geometry
+18:17:30.898 Warning Message: No entry 'bin\config.bin/CfgVehicles/SK8_Sneakers_ColorBase/DamageSystem.DamageZones'.
+18:17:31.198 Warning Message: No entry 'bin\config.bin/CfgVehicles/MilitaryBoots_ColorBase/DamageSystem.DamageZones'.
+18:17:31.298 Warning Message: No entry 'bin\config.bin/CfgVehicles/BalaclavaMask_ColorBase/DamageSystem.DamageZones'.
+18:17:31.399 Warning Message: No entry 'bin\config.bin/CfgWeapons/k98_Base/Single.autoFire'.
+18:17:31.399 Warning Message: Trying to access error value.
+18:17:31.399 Warning Message: No entry 'bin\config.bin/CfgWeapons/k98_Base/Single.burst'.
+18:17:31.399 Warning Message: Trying to access error value.
+18:17:31.399 Warning Message: No entry 'bin\config.bin/CfgWeapons/k98_Base/Single.soundContinuous'.
+18:17:31.399 Warning Message: Trying to access error value.
+18:17:31.399 Warning Message: No entry 'bin\config.bin/CfgWeapons/k98_Base/Single.barrelArmor'.
+18:17:31.399 Warning Message: Trying to access error value.
+18:17:35.716 Average server FPS: 7656.90 (measured interval: 30 s)
+18:17:35.716 Used memory: 2930053 KB
+18:17:35.716 Players: 1 in total
+18:17:49.852 Warning: No components in dz\water\ponds\moss\pond_big_29_03_moss.p3d:geometry
+18:17:56.998 Warning Message: No entry 'bin\config.bin/CfgVehicles/Round_Glasses_ColorBase/DamageSystem.DamageZones'.
+18:17:57.10 Warning: No components in windstrideclothing\models\round_glasses\round_glasses_m.p3d:geometry
+18:17:57.13 Warning: No components in windstrideclothing\models\round_glasses\round_glasses_f.p3d:geometry
+18:17:57.398 DamageSystem Warning: Selection dmgZone_window doesn't exists in fire geometry for entity ExpansionVodnikDoorDriver
+18:17:57.398 DamageSystem Warning: Selection dmgZone_doors doesn't exists in fire geometry for entity ExpansionVodnikDoorDriver
+18:17:57.598 Warning Message: No entry 'bin\config.bin/CfgVehicles/Round_Glasses_ColorBase/DamageSystem.DamageZones'.
+18:17:57.898 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_M9_Custom/Single.autoFire'.
+18:17:57.898 Warning Message: Trying to access error value.
+18:17:57.898 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_M9_Custom/Single.burst'.
+18:17:57.898 Warning Message: Trying to access error value.
+18:17:57.898 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_M9_Custom/Single.soundContinuous'.
+18:17:57.898 Warning Message: Trying to access error value.
+18:17:57.898 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_M9_Custom/Single.barrelArmor'.
+18:17:57.898 Warning Message: Trying to access error value.
+18:17:57.898 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_M9_Custom/FullAuto.burst'.
+18:17:57.898 Warning Message: Trying to access error value.
+18:17:57.898 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_M9_Custom/FullAuto.barrelArmor'.
+18:17:57.898 Warning Message: Trying to access error value.
+18:17:57.900 Warning: No components in ttc_pistols\m9\m9tac.p3d:geometryFire
+18:17:58.298 Warning Message: No entry 'bin\config.bin/CfgVehicles/HuntingBag/DamageSystem.DamageZones'.
+18:17:58.398 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_Glock17_Base/Single.autoFire'.
+18:17:58.398 Warning Message: Trying to access error value.
+18:17:58.398 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_Glock17_Base/Single.burst'.
+18:17:58.398 Warning Message: Trying to access error value.
+18:17:58.398 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_Glock17_Base/Single.soundContinuous'.
+18:17:58.398 Warning Message: Trying to access error value.
+18:17:58.398 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_Glock17_Base/Single.barrelArmor'.
+18:17:58.398 Warning Message: Trying to access error value.
+18:17:58.499 Warning Message: No entry 'bin\config.bin/CfgVehicles/Fleece_Grey_Leggings/DamageSystem.DamageZones'.
+18:17:58.599 Warning Message: No entry 'bin\config.bin/CfgVehicles/Red_Leggings/DamageSystem.DamageZones'.
+18:17:58.700 Warning: No components in dz\water\ponds\moss\pond_small_04_moss.p3d:geometry
+18:18:05.716 Average server FPS: 6591.47 (measured interval: 30 s)
+18:18:05.716 Used memory: 2935732 KB
+18:18:05.716 Players: 1 in total
+18:18:06.807 Warning Message: No entry 'bin\config.bin/CfgVehicles/Animal_GallusGallusDomesticusF/DamageSystem.DamageZones'.
+18:18:06.807 Warning Message: No entry 'bin\config.bin/CfgVehicles/Animal_GallusGallusDomesticusF_Spotted.P3DAttachments'.
+18:18:06.807 Warning Message: No entry '.P3DProxies'.
+18:18:06.807 Warning Message: No entry '.BoneNames'.
+18:18:06.807 Warning Message: Size: '/' not an array
+18:18:06.807 Warning Message: Size: '/' not an array
+18:18:06.807 Warning Message: Size: '/' not an array
+18:18:21.807 Warning Message: No entry 'bin\config.bin/CfgVehicles/Animal_GallusGallusDomesticusF/DamageSystem.DamageZones'.
+18:18:21.807 Warning Message: No entry 'bin\config.bin/CfgVehicles/Animal_GallusGallusDomesticusF_Brown.P3DAttachments'.
+18:18:21.807 Warning Message: No entry '.P3DProxies'.
+18:18:21.807 Warning Message: No entry '.BoneNames'.
+18:18:21.807 Warning Message: Size: '/' not an array
+18:18:21.807 Warning Message: Size: '/' not an array
+18:18:21.807 Warning Message: Size: '/' not an array
+18:18:23.904 Warning Message: No entry 'bin\config.bin/CfgVehicles/PMK_5A_Gas_Mask/DamageSystem.DamageZones'.
+18:18:23.904 Warning: No components in windstrideclothing\models\pmk-5a_gas_mask\pmk_5a_gas_mask_g.p3d:geometry
+18:18:23.916 Warning: No components in windstrideclothing\models\pmk-5a_gas_mask\pmk_5a_gas_mask_m.p3d:geometry
+18:18:23.928 Warning: No components in windstrideclothing\models\pmk-5a_gas_mask\pmk_5a_gas_mask_f.p3d:geometry
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/Single.autoFire'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/Single.burst'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/Single.soundContinuous'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/Single.barrelArmor'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/Double.autoFire'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/Double.soundContinuous'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/Double.barrelArmor'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/SecondMuzzle/Single.autoFire'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/SecondMuzzle/Single.burst'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/SecondMuzzle/Single.soundContinuous'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/SecondMuzzle/Single.barrelArmor'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/SecondMuzzle/Double.autoFire'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/SecondMuzzle/Double.soundContinuous'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.504 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_DT11_Base/SecondMuzzle/Double.barrelArmor'.
+18:18:24.504 Warning Message: Trying to access error value.
+18:18:24.903 Warning Message: No entry 'bin\config.bin/CfgVehicles/Adidas_Leggings/DamageSystem.DamageZones'.
+18:18:25.303 Warning Message: No entry 'bin\config.bin/CfgVehicles/HuntingBag/DamageSystem.DamageZones'.
+18:18:25.707 !!! [CE][Point] Removing 2676.589844, 5351.768555 from Land_Shed_W3
+18:18:25.807 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbF_MechanicNormal_Beige.P3DAttachments'.
+18:18:25.807 Warning Message: No entry '.P3DProxies'.
+18:18:25.807 Warning Message: No entry '.BoneNames'.
+18:18:25.807 Warning Message: Size: '/' not an array
+18:18:25.807 Warning Message: Size: '/' not an array
+18:18:25.807 Warning Message: Size: '/' not an array
+18:18:25.809 Warning Message: No entry 'bin\config.bin/CfgVehicles/ZmbM_HandymanNormal_Green.P3DAttachments'.
+18:18:25.809 Warning Message: No entry '.P3DProxies'.
+18:18:25.809 Warning Message: No entry '.BoneNames'.
+18:18:25.809 Warning Message: Size: '/' not an array
+18:18:25.809 Warning Message: Size: '/' not an array
+18:18:25.809 Warning Message: Size: '/' not an array
+18:18:25.903 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+18:18:35.716 Average server FPS: 6655.70 (measured interval: 30 s)
+18:18:35.716 Used memory: 2938712 KB
+18:18:35.716 Players: 1 in total
+18:18:50.503 CHAR_DEBUG - SAVE
+18:18:50.503     player [BF] DarkShy (dpnid = 28500536)
+18:18:50.503     Identity: playerID = 1 , charID = 1
+18:18:50.503     Person  : playerID = 1 , charID = 1
+18:18:50.503 Saved 1 players ...
+18:18:50.902 Warning Message: No entry 'bin\config.bin/CfgVehicles/RadarCap_ColorBase/DamageSystem.DamageZones'.
+18:18:51.03 Warning Message: No entry 'bin\config.bin/CfgVehicles/HuntingBag/DamageSystem.DamageZones'.
+18:18:51.102 Warning Message: No entry 'bin\config.bin/CfgVehicles/SK8_Sneakers_ColorBase/DamageSystem.DamageZones'.
+18:18:51.302 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_Kar98_Bayonet/DamageSystem.DamageZones'.
+18:18:51.702 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_G36_Base/FullAuto.burst'.
+18:18:51.702 Warning Message: Trying to access error value.
+18:18:51.702 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_G36_Base/FullAuto.barrelArmor'.
+18:18:51.702 Warning Message: Trying to access error value.
+18:18:51.702 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_G36_Base/SemiAuto.autoFire'.
+18:18:51.702 Warning Message: Trying to access error value.
+18:18:51.702 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_G36_Base/SemiAuto.burst'.
+18:18:51.702 Warning Message: Trying to access error value.
+18:18:51.702 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_G36_Base/SemiAuto.soundContinuous'.
+18:18:51.702 Warning Message: Trying to access error value.
+18:18:51.702 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_G36_Base/SemiAuto.barrelArmor'.
+18:18:51.702 Warning Message: Trying to access error value.
+18:18:52.04 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M14_Base/FullAuto.burst'.
+18:18:52.04 Warning Message: Trying to access error value.
+18:18:52.04 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M14_Base/FullAuto.barrelArmor'.
+18:18:52.04 Warning Message: Trying to access error value.
+18:18:52.04 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M14_Base/SemiAuto.autoFire'.
+18:18:52.04 Warning Message: Trying to access error value.
+18:18:52.04 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M14_Base/SemiAuto.burst'.
+18:18:52.04 Warning Message: Trying to access error value.
+18:18:52.04 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M14_Base/SemiAuto.soundContinuous'.
+18:18:52.04 Warning Message: Trying to access error value.
+18:18:52.04 Warning Message: No entry 'bin\config.bin/CfgWeapons/Expansion_M14_Base/SemiAuto.barrelArmor'.
+18:18:52.04 Warning Message: Trying to access error value.
+18:18:52.05 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxySniperOptic.AnimationSources'.
+18:18:52.05 Warning Message: Animation source hide not found in bin\config.bin/CfgNonAIVehicles/ProxySniperOptic/
+18:18:52.104 Warning Message: No entry 'bin\config.bin/CfgVehicles/Canvas_Backpack_Base/DamageSystem.DamageZones'.
+18:18:52.104 Warning Message: No entry 'bin\config.bin/CfgVehicles/Canvas_Backpack_Base/DamageSystem.DamageZones'.
+18:18:52.118 Warning: No components in windstrideclothing\models\canvas_backpack\canvas_backpack_m.p3d:geometry
+18:18:52.119 Warning: No components in dz\weapons\shotguns\izh43\izh43_sawedoff.p3d:geometry
+18:18:52.119 Warning Message: Cannot open object massguns\mp153\mp153short.p3d
+18:18:52.119 Warning Message: Cannot open object massguns\stevenson\supershort.p3d
+18:18:52.126 Warning: No components in windstrideclothing\models\canvas_backpack\canvas_backpack_f.p3d:geometry
+18:18:52.204 Warning: No components in dayzexpansion\objects\weapons\firearms\m79\m79\round\m79_projectile.p3d:geometryView
+18:18:52.402 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionSafeLarge/DamageSystem.DamageZones'.
+18:18:52.404 ExpansionSafeLarge: safe_crank - unknown animation source safe_crank
+18:18:52.603 Warning Message: No entry 'bin\config.bin/CfgVehicles/BallisticHelmet_ColorBase/DamageSystem.DamageZones'.
+18:18:53.264 Warning: No components in dz\structures\military\airfield\mil_blastcover2_grass.p3d:geometry
+18:18:54.13 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:19:05.716 Average server FPS: 6856.90 (measured interval: 30 s)
+18:19:05.716 Used memory: 2949057 KB
+18:19:05.716 Players: 1 in total
+18:19:17.614 Warning Message: No entry 'bin\config.bin/CfgVehicles/Skinny_Jeans_ColorBase/DamageSystem.DamageZones'.
+18:19:17.626 Warning: No components in windstrideclothing\models\skinny_jeans\skinny_jeans_m.p3d:geometry
+18:19:17.636 Warning: No components in windstrideclothing\models\skinny_jeans\skinny_jeans_f.p3d:geometry
+18:19:17.714 !!! ExpansionHAMROptic - PhysShape missing Vertex Data at level 4...
+18:19:17.714 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionDeltapointOptic/DamageSystem.DamageZones'.
+18:19:17.715 Warning: No components in dayzexpansion\objects\weapons\attachments\optics\deltapoint\deltapoint.p3d:geometry
+18:19:17.814 Warning Message: No entry 'bin\config.bin/CfgVehicles/Expansion_PMII25Optic/DamageSystem.DamageZones'.
+18:19:18.14 Warning Message: No entry 'bin\config.bin/CfgVehicles/Military_Sweater/DamageSystem.DamageZones'.
+18:19:18.40 Warning: No components in windstrideclothing\models\military_sweater\military_sweater_m.p3d:geometry
+18:19:18.49 Warning: No components in windstrideclothing\models\military_sweater\military_sweater_f.p3d:geometry
+18:19:18.314 Warning Message: No entry 'bin\config.bin/CfgVehicles/PlateCarrierHolster/DamageSystem.DamageZones'.
+18:19:18.514 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_MP44_Base/FullAuto.burst'.
+18:19:18.514 Warning Message: Trying to access error value.
+18:19:18.514 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_MP44_Base/FullAuto.barrelArmor'.
+18:19:18.514 Warning Message: Trying to access error value.
+18:19:18.514 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_MP44_Base/SemiAuto.autoFire'.
+18:19:18.514 Warning Message: Trying to access error value.
+18:19:18.514 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_MP44_Base/SemiAuto.burst'.
+18:19:18.514 Warning Message: Trying to access error value.
+18:19:18.514 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_MP44_Base/SemiAuto.soundContinuous'.
+18:19:18.514 Warning Message: Trying to access error value.
+18:19:18.514 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_MP44_Base/SemiAuto.barrelArmor'.
+18:19:18.514 Warning Message: Trying to access error value.
+18:19:19.314 Warning Message: No entry 'bin\config.bin/CfgVehicles/Military_Sweater/DamageSystem.DamageZones'.
+18:19:19.513 Warning Message: No entry 'bin\config.bin/CfgVehicles/DryBag_ColorBase/DamageSystem.DamageZones'.
+18:19:35.716 Average server FPS: 6693.53 (measured interval: 30 s)
+18:19:35.716 Used memory: 2952600 KB
+18:19:35.716 Players: 1 in total
+18:19:44.514 Warning Message: No entry 'bin\config.bin/CfgVehicles/Slouch_Hat_ColorBase/DamageSystem.DamageZones'.
+18:19:44.525 Warning: No components in windstrideclothing\models\slouch_hat\slouch_hat.p3d:geometry
+18:19:44.525 Warning: No components in windstrideclothing\models\slouch_hat\slouch_hat.p3d:geometryFire
+18:19:44.525 Warning: No components in windstrideclothing\models\slouch_hat\slouch_hat.p3d:geometryView
+18:19:44.614 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionSafeMini/DamageSystem.DamageZones'.
+18:19:45.13 Warning Message: No entry 'bin\config.bin/CfgVehicles/Military_Sweater/DamageSystem.DamageZones'.
+18:19:45.114 Warning Message: No entry 'bin\config.bin/CfgVehicles/Fingerless_Gloves/DamageSystem.DamageZones'.
+18:19:45.120 Warning: No components in windstrideclothing\models\fingerless_gloves\fingerless_gloves_m.p3d:geometry
+18:19:45.122 Warning: No components in windstrideclothing\models\fingerless_gloves\fingerless_gloves_f.p3d:geometry
+18:19:45.214 Warning Message: No entry 'bin\config.bin/CfgVehicles/PlateCarrierVest/DamageSystem.DamageZones'.
+18:19:45.414 Warning Message: No entry 'bin\config.bin/CfgVehicles/PlateCarrierPouches/DamageSystem.DamageZones'.
+18:19:45.614 Warning Message: No entry 'bin\config.bin/CfgVehicles/Military_Sweater/DamageSystem.DamageZones'.
+18:19:46.14 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_SVT40_Bayonet/DamageSystem.DamageZones'.
+18:19:46.14 Warning: No components in ttc_rifles\svt40\ttc_svt40_bayonet.p3d:geometryFire
+18:19:46.114 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionSafeMedium/DamageSystem.DamageZones'.
+18:19:46.314 Warning Message: No entry 'bin\config.bin/CfgVehicles/Canvas_Backpack_Base/DamageSystem.DamageZones'.
+18:19:46.414 Warning Message: No entry 'bin\config.bin/CfgVehicles/TTC_SVT40_Optic/DamageSystem.DamageZones'.
+18:19:46.530 !!! No animSource for doors Land_Wreck_hb01_aban2_green :: door 3, check model+config
+18:20:05.716 Average server FPS: 6618.80 (measured interval: 30 s)
+18:20:05.716 Used memory: 2959344 KB
+18:20:05.716 Players: 1 in total
+18:20:11.516 Warning Message: No entry 'bin\config.bin/CfgVehicles/MilitaryBeret_ColorBase/DamageSystem.DamageZones'.
+18:20:11.616 Warning Message: No entry 'bin\config.bin/CfgVehicles/Canvas_Backpack_Base/DamageSystem.DamageZones'.
+18:20:11.716 Warning Message: No entry 'bin\config.bin/CfgVehicles/TortillaBag/DamageSystem.DamageZones'.
+18:20:11.816 Warning Message: No entry 'bin\config.bin/CfgVehicles/Military_Sweater/DamageSystem.DamageZones'.
+18:20:12.216 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_SVT40_Base/SemiAuto.autoFire'.
+18:20:12.216 Warning Message: Trying to access error value.
+18:20:12.216 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_SVT40_Base/SemiAuto.burst'.
+18:20:12.216 Warning Message: Trying to access error value.
+18:20:12.216 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_SVT40_Base/SemiAuto.soundContinuous'.
+18:20:12.216 Warning Message: Trying to access error value.
+18:20:12.216 Warning Message: No entry 'bin\config.bin/CfgWeapons/TTC_SVT40_Base/SemiAuto.barrelArmor'.
+18:20:12.216 Warning Message: Trying to access error value.
+18:20:12.217 Warning: No components in ttc_rifles\svt40\ttc_svt40_bayonet.p3d:geometryFire
+18:20:12.217 Warning Message: No entry 'bin\config.bin/CfgNonAIVehicles/ProxyTTC_SVT40_Optic.AnimationSources'.
+18:20:12.217 Warning Message: Animation source hide not found in bin\config.bin/CfgNonAIVehicles/ProxyTTC_SVT40_Optic/
+18:20:12.416 Warning Message: No entry 'bin\config.bin/CfgVehicles/Tactical_Leg_Holster_ColorBase/DamageSystem.DamageZones'.
+18:20:12.426 Warning: No components in windstrideclothing\models\tactical_leg_holster\tactical_leg_holster_m.p3d:geometry
+18:20:12.433 Warning: No components in windstrideclothing\models\tactical_leg_holster\tactical_leg_holster_f.p3d:geometry
+18:20:12.516 Warning Message: No entry 'bin\config.bin/CfgVehicles/Clothing_Base/DamageSystem.DamageZones'.
+18:20:12.716 Warning Message: No entry 'bin\config.bin/CfgVehicles/Military_Sweater/DamageSystem.DamageZones'.
+18:20:13.16 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionKitBase/DamageSystem/GlobalHealth/GlobalArmor.hitpoints'.
+18:20:13.16 Warning Message: Trying to access error value.
+18:20:13.16 Warning Message: No entry 'bin\config.bin/CfgVehicles/ExpansionKitBase/DamageSystem.DamageZones'.
+18:20:13.16 Warning Message: Animation source zbytek not found in bin\config.bin/CfgVehicles/ExpansionBarbedWireKit/
+18:20:13.116 Warning Message: No entry 'bin\config.bin/CfgVehicles/Skinny_Jeans_ColorBase/DamageSystem.DamageZones'.
+18:20:13.816 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+18:20:35.715 Average server FPS: 7075.90 (measured interval: 30 s)
+18:20:35.716 Used memory: 2961975 KB
+18:20:35.716 Players: 1 in total
+18:20:38.416 Warning Message: No entry 'bin\config.bin/CfgVehicles/Kneepads_Jeans_Base/DamageSystem.DamageZones'.
+18:20:38.493 Warning: No components in windstrideclothing\models\kneepads_jeans\kneepads_jeans_m.p3d:geometry
+18:20:38.566 Warning: No components in windstrideclothing\models\kneepads_jeans\kneepads_jeans_f.p3d:geometry
+18:20:39.170 Warning Message: No entry 'bin\config.bin/CfgVehicles/TortillaBag/DamageSystem.DamageZones'.
+18:20:39.869 Warning Message: No entry 'bin\config.bin/CfgVehicles/Kneepads_Jeans_Base/DamageSystem.DamageZones'.
+18:20:39.969 Warning: No components in ttc_pistols\nxr44\ttc_ammostack44mag.p3d:geometry
+18:20:41.969 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+18:21:05.69 CHAR_DEBUG - SAVE
+18:21:05.69     player [BF] DarkShy (dpnid = 28500536)
+18:21:05.69     Identity: playerID = 1 , charID = 1
+18:21:05.69     Person  : playerID = 1 , charID = 1

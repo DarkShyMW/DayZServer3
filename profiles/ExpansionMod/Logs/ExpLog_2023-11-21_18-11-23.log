@@ -1,0 +1,7 @@
+18:14:57.289 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:14:57.289 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+18:15:23.914 [SpawnSelection] Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) spawned at <13910.900391, 4.300000, 13624.900391>
+18:17:04.687 [Killfeed] [BF] DarkShy был убит.
+18:17:20.023 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=
+18:17:20.023 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+18:17:49.265 [SpawnSelection] Player "[BF] DarkShy" (id=RVJ1H88k-w8xK_gEGt4pemgxqvOZr3y4mNYvAFYBiJ4=) spawned at <8139.250000, 1.151711, 2802.356445>

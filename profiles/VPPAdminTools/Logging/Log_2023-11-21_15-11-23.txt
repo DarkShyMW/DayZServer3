@@ -102,3 +102,6 @@ Logs Started: 2023-11-21_15-11-23
 15:11:23 | Building Sets Loaded: 0
 15:11:23 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
 15:11:23 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+15:14:57 | Player "[BF] DarkShy" (steamId=76561198968682215) connected to server!
+15:21:34 | Player "[BF] DarkShy" (steamId=76561198968682215) initiated disconnect process...
+15:21:34 | Player "[BF] DarkShy" (steamId=76561198968682215) disconnected from server.
