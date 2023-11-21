@@ -15,7 +15,14 @@
         "Bayonets",
         "Optics",
         "Buttstocks",
-        "Handguards"
+        "Handguards",
+        "Bayonets_Mortys",
+        "Bipods_Mortys",
+        "Buttstocks_Mortys",
+        "Handguards_Mortys",
+        "Magazines_Mortys",
+        "Optics_Mortys",
+        "Muzzles_Mortys"
     ],
     "Items": {
         "universallight": 1,

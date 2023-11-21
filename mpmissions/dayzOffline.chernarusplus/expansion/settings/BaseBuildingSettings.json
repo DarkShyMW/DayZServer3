@@ -53,7 +53,7 @@
     "BuildZoneRequiredCustomMessage": "",
     "Zones": [
         {
-            "Name": "Krasnostav Trader Camp",
+            "Name": "Красностав Трейдер зона",
             "Center": [
                 11882.0,
                 143.0,
@@ -74,7 +74,7 @@
             "CustomMessage": ""
         },
         {
-            "Name": "Green Mountain Trader Camp",
+            "Name": "Зеленая гора Трейдер зона",
             "Center": [
                 3728.27001953125,
                 403.0,
@@ -95,7 +95,7 @@
             "CustomMessage": ""
         },
         {
-            "Name": "Kamenka Trader Camp",
+            "Name": "Каменка Трейдер зона",
             "Center": [
                 1143.1400146484376,
                 6.900000095367432,

@@ -249,32 +249,6 @@
                 ]
             ],
             "UseCooldown": 1
-        },
-        {
-            "Name": "Kamenka",
-            "Positions": [
-                [
-                    2164.7001953125,
-                    1.7280139923095704,
-                    2049.44384765625
-                ],
-                [
-                    2031.4254150390626,
-                    1.2907429933547974,
-                    2150.743408203125
-                ],
-                [
-                    1708.5230712890626,
-                    1.9583090543746949,
-                    2031.263671875
-                ],
-                [
-                    1563.32568359375,
-                    2.1741321086883547,
-                    2063.2548828125
-                ]
-            ],
-            "UseCooldown": 1
         }
     ],
     "StartingClothing": {
@@ -293,7 +267,14 @@
             "TShirt_White",
             "TShirt_Red",
             "TShirt_Grey",
-            "TShirt_RedBlackStripes"
+            "TShirt_RedBlackStripes",
+            "Medium_Sleeves_Shirt_Red",
+            "Medium_Sleeves_Shirt_Blue",
+            "Layered_Shirt_Base",
+            "Layered_Shirt_Cheburashka",
+            "Layered_Shirt_White",
+            "Layered_Shirt_Courage",
+            "Layered_Shirt_Lily"
         ],
         "Vests": [],
         "Gloves": [],
@@ -307,7 +288,13 @@
             "CanvasPantsMidi_Blue",
             "CanvasPantsMidi_Grey",
             "CanvasPantsMidi_Red",
-            "CanvasPantsMidi_Violet"
+            "CanvasPantsMidi_Violet",
+            "Latex_Leggings",
+            "Latex_White_Leggings",
+            "Adidas_Leggings",
+            "Red_Leggings",
+            "Purple_Leggings",
+            "Fleece_Grey_Leggings"
         ],
         "Belts": [],
         "Shoes": [
@@ -315,7 +302,9 @@
             "AthleticShoes_Grey",
             "AthleticShoes_Brown",
             "AthleticShoes_Green",
-            "AthleticShoes_Black"
+            "AthleticShoes_Black",
+            "Flipflops_Colorbase",
+            "High_Knee_Sneakers"
         ],
         "Armbands": [],
         "Backpacks": [
@@ -335,6 +324,11 @@
             {
                 "ClassName": "Rag",
                 "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "StoneKnife",
+                "Quantity": 1,
                 "Attachments": []
             },
             {

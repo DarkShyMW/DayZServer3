@@ -1,105 +1,106 @@
 {
-  "m_Version": 9,
-  "DisplayName": "MUZZLES MORTYS",
-  "Icon": "Deliver",
-  "Color": "FBFCFEFF",
-  "InitStockPercent": 75,
-  "Items": [
-    {
-      "ClassName": "TTC_AKMod_Suppressor",
-      "MaxPriceThreshold": 8300,
-      "MinPriceThreshold": 8300,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_DMR_Suppressor",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_Honey_Suppressor",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_M14Suppressor",
-      "MaxPriceThreshold": 3000,
-      "MinPriceThreshold": 3000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_PistolSuppressor",
-      "MaxPriceThreshold": 2300,
-      "MinPriceThreshold": 2300,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_Universal_Suppressor_BLACK",
-      "MaxPriceThreshold": 13000,
-      "MinPriceThreshold": 13000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "TTC_Universal_Suppressor_CAMO",
-        "TTC_Universal_Suppressor_Snow",
-        "TTC_Universal_Suppressor_Tan"
-      ]
-    },
-    {
-      "ClassName": "TTC_Universal_Suppressor_TAVOR",
-      "MaxPriceThreshold": 13000,
-      "MinPriceThreshold": 13000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "TTC_Universal_Suppressor_TAVOR_Tan"
-      ]
-    },
-    {
-      "ClassName": "TTC_MCX_Spear_Suppressor_Black",
-      "MaxPriceThreshold": 3000,
-      "MinPriceThreshold": 3000,
-      "SellPricePercent": 10,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "TTC_MCX_Spear_Suppressor"
-      ]
-    }
-  ]
+    "m_Version": 12,
+    "DisplayName": "MUZZLES MORTYS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TTC_AKMod_Suppressor",
+            "MaxPriceThreshold": 8300,
+            "MinPriceThreshold": 8300,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_DMR_Suppressor",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Honey_Suppressor",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_M14Suppressor",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_PistolSuppressor",
+            "MaxPriceThreshold": 2300,
+            "MinPriceThreshold": 2300,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_Universal_Suppressor_BLACK",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 13000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_Universal_Suppressor_CAMO",
+                "TTC_Universal_Suppressor_Snow",
+                "TTC_Universal_Suppressor_Tan"
+            ]
+        },
+        {
+            "ClassName": "TTC_Universal_Suppressor_TAVOR",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 13000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_Universal_Suppressor_TAVOR_Tan"
+            ]
+        },
+        {
+            "ClassName": "TTC_MCX_Spear_Suppressor_Black",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TTC_MCX_Spear_Suppressor"
+            ]
+        }
+    ]
 }

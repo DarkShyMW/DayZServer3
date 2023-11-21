@@ -1,64 +1,65 @@
 {
-  "m_Version": 9,
-  "DisplayName": "SUBMACHINE GUNS MORTYS",
-  "Icon": "Deliver",
-  "Color": "FBFCFEFF",
-  "InitStockPercent": 75,
-  "Items": [
-    {
-      "ClassName": "TTC_MP5SD",
-      "MaxPriceThreshold": 2400,
-      "MinPriceThreshold": 800,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_MP7A1",
-      "MaxPriceThreshold": 2400,
-      "MinPriceThreshold": 800,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_MPX",
-      "MaxPriceThreshold": 2400,
-      "MinPriceThreshold": 800,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_PP91",
-      "MaxPriceThreshold": 2400,
-      "MinPriceThreshold": 800,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "TTC_UZI",
-      "MaxPriceThreshold": 2400,
-      "MinPriceThreshold": 800,
-      "SellPricePercent": 20,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    }
-  ]
+    "m_Version": 12,
+    "DisplayName": "SUBMACHINE GUNS MORTYS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TTC_MP5SD",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MP7A1",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_MPX",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_PP91",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTC_UZI",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
 }
