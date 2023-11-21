@@ -1,16 +1,5 @@
 {
-    "players": [
-        {
-            "entryType": "PLAYER",
-            "type": "SurvivorF_Maria",
-            "category": "MAN",
-            "name": "[BF] DarkShy",
-            "id": 3005261,
-            "position": "4299.151367 94.452209 3402.127197",
-            "speed": "0.000000 0.000000 0.000000",
-            "damage": 0.0
-        }
-    ],
+    "players": [],
     "vehicles": [
         {
             "entryType": "VEHICLE",
