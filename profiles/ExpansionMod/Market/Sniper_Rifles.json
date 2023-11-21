@@ -45,8 +45,8 @@
         },
         {
             "ClassName": "svd",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 21000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -54,7 +54,9 @@
             "SpawnAttachments": [
                 "mag_svd_10rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "WinterGear_SVD"
+            ]
         },
         {
             "ClassName": "scout_chernarus",

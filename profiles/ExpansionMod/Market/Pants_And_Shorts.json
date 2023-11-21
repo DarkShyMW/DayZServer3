@@ -33,7 +33,8 @@
                 "tracksuitpants_blue",
                 "tracksuitpants_green",
                 "tracksuitpants_red",
-                "tracksuitpants_lightblue"
+                "tracksuitpants_lightblue",
+                "WinterGear_TrackSuitPants"
             ]
         },
         {
@@ -266,7 +267,8 @@
             "SpawnAttachments": [],
             "Variants": [
                 "paramedicpants_crimson",
-                "paramedicpants_green"
+                "paramedicpants_green",
+                "WinterGear_MedicPants"
             ]
         },
         {
@@ -295,7 +297,9 @@
                 "cargopants_black",
                 "cargopants_blue",
                 "cargopants_green",
-                "cargopants_grey"
+                "cargopants_grey",
+                "WinterGear_CargoPants_camo",
+                "WinterGear_CargoPants"
             ]
         },
         {
@@ -542,6 +546,59 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Blue_Leggings",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Latex_Leggings",
+                "Latex_White_Leggings",
+                "Adidas_Leggings",
+                "Red_Leggings",
+                "Purple_Leggings",
+                "Fleece_Grey_Leggings"
+            ]
+        },
+        {
+            "ClassName": "Kneepads_Jeans_Base",
+            "MaxPriceThreshold": 280,
+            "MinPriceThreshold": 240,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Kneepads_Jeans_Black"
+            ]
+        },
+        {
+            "ClassName": "Galife_Pants_Olive",
+            "MaxPriceThreshold": 280,
+            "MinPriceThreshold": 240,
+            "SellPricePercent": 10,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Galife_Pants_Navy"
+            ]
         }
     ]
 }
+
+
+
+
+
+
+
+
+

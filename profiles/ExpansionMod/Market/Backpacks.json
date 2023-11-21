@@ -71,7 +71,8 @@
             "Variants": [
                 "taloonbag_orange",
                 "taloonbag_violet",
-                "taloonbag_green"
+                "taloonbag_green",
+                "WinterGear_TaloonBag"
             ]
         },
         {
@@ -107,7 +108,9 @@
             "SpawnAttachments": [],
             "Variants": [
                 "assaultbag_green",
-                "assaultbag_ttsko"
+                "assaultbag_ttsko",
+                "WinterGear_AssaultBag",
+                "WinterGear_AssaultBag_camo"
             ]
         },
         {
@@ -130,7 +133,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "WinterGear_HuntingBag",
+                "WinterGear_HuntingBag_winter",
+                "WinterGear_HuntingBag_camo"
+            ]
         },
         {
             "ClassName": "tortillabag",
@@ -142,7 +149,9 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "expansiondeserttortilla"
+                "expansiondeserttortilla",
+                "WinterGear_TortillaBag",
+                "WinterGear_TortillaBag_camo"
             ]
         },
         {
@@ -156,7 +165,9 @@
             "SpawnAttachments": [],
             "Variants": [
                 "coyotebag_green",
-                "expansioncoyoteblack"
+                "expansioncoyoteblack",
+                "WinterGear_CoyoteBag",
+                "WinterGear_CoyoteBag_camo"
             ]
         },
         {
@@ -171,21 +182,23 @@
             "Variants": [
                 "mountainbag_blue",
                 "mountainbag_orange",
-                "mountainbag_green"
+                "mountainbag_green",
+                "WinterGear_MountainBag"
             ]
         },
         {
             "ClassName": "alicebag_green",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": 10.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
                 "alicebag_black",
-                "alicebag_camo"
+                "alicebag_camo",
+                "WinterGear_AliceBag"
             ]
         },
         {
@@ -237,7 +250,13 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "canvasbag_olive"
+                "canvasbag_olive",
+                "Canvas_Backpack_Base",
+                "Canvas_Backpack_Black",
+                "Canvas_Backpack_White",
+                "Canvas_Backpack_Red",
+                "Canvas_Backpack_Blue",
+                "Canvas_Backpack_Purple"
             ]
         },
         {
@@ -266,8 +285,27 @@
             "SpawnAttachments": [],
             "Variants": [
                 "drysackbag_orange",
-                "drysackbag_yellow"
+                "drysackbag_yellow",
+                "WinterGear_DryBag"
+            ]
+        },
+        {
+            "ClassName": "Golden_Winged_Pin",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Button_Pin_Radioactive",
+                "Button_Pin_Daisy",
+                "Sheriff_Badge"
             ]
         }
     ]
 }
+
+
+

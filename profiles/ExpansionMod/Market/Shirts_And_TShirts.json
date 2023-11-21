@@ -22,7 +22,9 @@
                 "tshirt_beige",
                 "tshirt_grey",
                 "tshirt_black",
-                "tshirt_green"
+                "tshirt_green",
+                "WinterGear_TacticalShirt",
+                "WinterGear_TacticalShirt_camo"
             ]
         },
         {
@@ -191,6 +193,27 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Medium_Sleeves_Shirt",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Medium_Sleeves_Shirt_Red",
+                "Medium_Sleeves_Shirt_Blue",
+                "Layered_Shirt_Base",
+                "Layered_Shirt_Cheburashka",
+                "Layered_Shirt_White",
+                "Layered_Shirt_Courage",
+                "Layered_Shirt_Lily"
+            ]
         }
     ]
 }
+
+

@@ -29,7 +29,8 @@
             "Variants": [
                 "platecarrierholster_green",
                 "platecarrierholster_black",
-                "platecarrierholster_camo"
+                "platecarrierholster_camo",
+                "WinterGear_PlateCarrierHolster"
             ]
         },
         {
@@ -55,7 +56,8 @@
             "Variants": [
                 "platecarrierpouches_green",
                 "platecarrierpouches_black",
-                "platecarrierpouches_camo"
+                "platecarrierpouches_camo",
+                "WinterGear_PlateCarrierPouches"
             ]
         },
         {

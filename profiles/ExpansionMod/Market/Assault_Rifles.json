@@ -31,7 +31,8 @@
             "SpawnAttachments": [
                 "ak_woodbttstck",
                 "ak_woodhndgrd",
-                "mag_akm_30rnd"
+                "mag_akm_30rnd",
+                "WinterGear_AKM"
             ],
             "Variants": []
         },
@@ -77,7 +78,8 @@
                 "m4_carryhandleoptic",
                 "mag_stanag_30rnd",
                 "m4_oebttstck",
-                "m4_plastichndgrd"
+                "m4_plastichndgrd",
+                "WinterGear_M4"
             ],
             "Variants": []
         },

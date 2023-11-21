@@ -51,7 +51,8 @@
                 "militaryberet_red",
                 "militaryberet_un",
                 "militaryberet_cdf",
-                "militaryberet_nz"
+                "militaryberet_nz",
+                "WinterGear_Beret_CDF"
             ]
         },
         {
@@ -92,7 +93,8 @@
                 "beaniehat_grey",
                 "beaniehat_red",
                 "beaniehat_black",
-                "beaniehat_green"
+                "beaniehat_green",
+                "WinterGear_Beanie"
             ]
         },
         {
@@ -128,7 +130,8 @@
             "SpawnAttachments": [],
             "Variants": [
                 "ushanka_blue",
-                "ushanka_green"
+                "ushanka_green",
+                "WinterGear_Ushanka"
             ]
         },
         {
@@ -160,7 +163,8 @@
                 "booniehat_olive",
                 "booniehat_dpm",
                 "booniehat_dubok",
-                "booniehat_flecktran"
+                "booniehat_flecktran",
+                "WinterGear_BoonieHat"
             ]
         },
         {
@@ -261,6 +265,128 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Scarf_Brown",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Scarf_ColorPalette1",
+                "Scarf_Blue"
+            ]
+        },
+        {
+            "ClassName": "Slouch_Hat_Brown",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Leather_Cloak",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Shemagh_Brown",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemagh_Green",
+                "Shemagh_Red",
+                "Shemagh_White",
+                "Shemagh_Black"
+            ]
+        },
+        {
+            "ClassName": "Shemagh_Bandit_Brown",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemagh_Bandit_Green",
+                "Shemagh_Bandit_Red",
+                "Shemagh_Bandit_White",
+                "Shemagh_Bandit_Black"
+            ]
+        },
+        {
+            "ClassName": "Shemagh_Facemask_Brown",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemagh_Facemask_Green",
+                "Shemagh_Facemask_Red",
+                "Shemagh_Facemask_White",
+                "Shemagh_Facemask_Black"
+            ]
+        },
+        {
+            "ClassName": "Shemagh_Scarf_Brown",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Shemagh_Scarf_Green",
+                "Shemagh_Scarf_Red",
+                "Shemagh_Scarf_White",
+                "Shemagh_Scarf_Black"
+            ]
+        },
+        {
+            "ClassName": "WinterGear_RadarCap",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
+
+
+
+
+
+
+
+
+
+
+

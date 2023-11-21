@@ -556,4 +556,329 @@
 17:13:55 [27] ItemPlanks
 17:13:55   Primary Spawner: "Item", active: yes, repeat: 1
 17:13:55 [28] Loot
-17:13:55   Primary Spawner: "Loot", active: yes, rep
+17:13:55   Primary Spawner: "Loot", active: yes, repeat: 2
+17:13:55 [29] StaticAirplaneCrate
+17:13:55   Primary Spawner: "Static", active: yes, repeat: 1
+17:13:55 [30] StaticContaminatedArea
+17:13:55   Primary Spawner: "Static", active: yes, repeat: 1
+17:13:55 [31] StaticHeliCrash
+17:13:55   Primary Spawner: "Static", active: yes, repeat: 1
+17:13:55   Secondary Spawner: "Infected", active: yes, repeat: 1
+17:13:55 [32] StaticMilitaryConvoy
+17:13:55   Primary Spawner: "Static", active: yes, repeat: 1
+17:13:55   Secondary Spawner: "Infected", active: yes, repeat: 1
+17:13:55 [33] StaticPoliceSituation
+17:13:55   Primary Spawner: "Static", active: yes, repeat: 1
+17:13:55   Secondary Spawner: "Infected", active: yes, repeat: 1
+17:13:55 [34] StaticTrain
+17:13:55   Primary Spawner: "Static", active: yes, repeat: 1
+17:13:55   Secondary Spawner: "Infected", active: yes, repeat: 1
+17:13:55 [35] TrajectoryApple
+17:13:55   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:13:55 [36] TrajectoryConiferous
+17:13:55   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:13:55 [37] TrajectoryDeciduous
+17:13:55   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:13:55 [38] TrajectoryHumus
+17:13:55   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:13:55 [39] TrajectoryPear
+17:13:55   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:13:55 [40] TrajectoryPlum
+17:13:55   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:13:55 [41] TrajectoryStones
+17:13:55   Primary Spawner: "Trajectory", active: yes, repeat: 1
+17:13:55 [42] VehicleCivilianSedan
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [43] VehicleHatchback02
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [44] VehicleOffroad02
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [45] VehicleOffroadHatchback
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [46] VehicleSedan02
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [47] VehicleTruck01
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [48] VehicleUAZ
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [49] VehicleVodnik
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [50] VehicleBus
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [51] VehicleTractor
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [52] VehicleLandRover
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [53] VehicleMH6Helicopter
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [54] VehicleMerlinHelicopter
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [55] VehicleUh1hHelicopter
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [56] VehicleUtilityBoat
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [57] VehicleZodiacBoat
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [58] VehicleGyroHelicopter
+17:13:55   Primary Spawner: "Vehicle", active: yes, repeat: 1
+17:13:55 [CE][Hive] :: Initializing of spawners done.
+17:13:55 [CE][Hive] :: Init sequence finished.
+17:13:57 [IdleMode] Entering IN - save processed
+17:14:26 Average server FPS: 4498.40 (measured interval: 30 s)
+17:14:26 Used memory: 2610357 KB
+17:14:26 Players: 0 in total
+17:14:56 Average server FPS: 4104.03 (measured interval: 30 s)
+17:14:56 Used memory: 2698786 KB
+17:14:56 Players: 0 in total
+17:15:26 Average server FPS: 4735.57 (measured interval: 30 s)
+17:15:26 Used memory: 2774193 KB
+17:15:26 Players: 0 in total
+17:15:56 Average server FPS: 5349.10 (measured interval: 30 s)
+17:15:56 Used memory: 2820314 KB
+17:15:56 Players: 0 in total
+17:16:26 Average server FPS: 5493.37 (measured interval: 30 s)
+17:16:26 Used memory: 2874730 KB
+17:16:26 Players: 0 in total
+17:16:56 Average server FPS: 9325.37 (measured interval: 30 s)
+17:16:56 Used memory: 2874736 KB
+17:16:56 Players: 0 in total
+17:17:26 Average server FPS: 9387.95 (measured interval: 30 s)
+17:17:26 Used memory: 2874741 KB
+17:17:26 Players: 0 in total
+17:17:56 Average server FPS: 9381.29 (measured interval: 30 s)
+17:17:56 Used memory: 2874747 KB
+17:17:56 Players: 0 in total
+17:18:26 Average server FPS: 9428.77 (measured interval: 30 s)
+17:18:26 Used memory: 2874750 KB
+17:18:26 Players: 0 in total
+17:18:56 Average server FPS: 9468.23 (measured interval: 30 s)
+17:18:56 Used memory: 2874754 KB
+17:18:56 Players: 0 in total
+17:19:26 Average server FPS: 9434.75 (measured interval: 30 s)
+17:19:26 Used memory: 2874764 KB
+17:19:26 Players: 0 in total
+17:19:56 Average server FPS: 9678.83 (measured interval: 30 s)
+17:19:56 Used memory: 2876176 KB
+17:19:56 Players: 0 in total
+17:20:26 Average server FPS: 9495.27 (measured interval: 30 s)
+17:20:26 Used memory: 2877007 KB
+17:20:26 Players: 0 in total
+17:20:56 Average server FPS: 9576.33 (measured interval: 30 s)
+17:20:56 Used memory: 2880505 KB
+17:20:56 Players: 0 in total
+17:21:26 Average server FPS: 9587.50 (measured interval: 30 s)
+17:21:26 Used memory: 2880512 KB
+17:21:26 Players: 0 in total
+17:21:56 Average server FPS: 9692.07 (measured interval: 30 s)
+17:21:56 Used memory: 2880528 KB
+17:21:56 Players: 0 in total
+17:22:26 Average server FPS: 9569.80 (measured interval: 30 s)
+17:22:26 Used memory: 2880534 KB
+17:22:26 Players: 0 in total
+17:22:56 Average server FPS: 9633.33 (measured interval: 30 s)
+17:22:56 Used memory: 2880541 KB
+17:22:56 Players: 0 in total
+17:23:26 Average server FPS: 9679.53 (measured interval: 30 s)
+17:23:26 Used memory: 2880546 KB
+17:23:26 Players: 0 in total
+17:23:56 Average server FPS: 9602.33 (measured interval: 30 s)
+17:23:56 Used memory: 2880551 KB
+17:23:56 Players: 0 in total
+17:24:26 Average server FPS: 9615.83 (measured interval: 30 s)
+17:24:26 Used memory: 2880773 KB
+17:24:26 Players: 0 in total
+17:24:56 Average server FPS: 9673.07 (measured interval: 30 s)
+17:24:56 Used memory: 2880777 KB
+17:24:56 Players: 0 in total
+17:25:26 Average server FPS: 9632.93 (measured interval: 30 s)
+17:25:26 Used memory: 2880779 KB
+17:25:26 Players: 0 in total
+17:25:56 Average server FPS: 9647.93 (measured interval: 30 s)
+17:25:56 Used memory: 2881104 KB
+17:25:56 Players: 0 in total
+17:26:26 Average server FPS: 9586.73 (measured interval: 30 s)
+17:26:26 Used memory: 2881109 KB
+17:26:26 Players: 0 in total
+17:26:56 Average server FPS: 9720.33 (measured interval: 30 s)
+17:26:56 Used memory: 2881112 KB
+17:26:56 Players: 0 in total
+17:27:26 Average server FPS: 9602.23 (measured interval: 30 s)
+17:27:26 Used memory: 2881118 KB
+17:27:26 Players: 0 in total
+17:27:56 Average server FPS: 9748.07 (measured interval: 30 s)
+17:27:56 Used memory: 2881218 KB
+17:27:56 Players: 0 in total
+17:28:26 Average server FPS: 9658.33 (measured interval: 30 s)
+17:28:26 Used memory: 2881224 KB
+17:28:26 Players: 0 in total
+17:28:56 Average server FPS: 9709.50 (measured interval: 30 s)
+17:28:56 Used memory: 2881321 KB
+17:28:56 Players: 0 in total
+17:29:26 Average server FPS: 9617.30 (measured interval: 30 s)
+17:29:26 Used memory: 2881333 KB
+17:29:26 Players: 0 in total
+17:29:56 Average server FPS: 9643.77 (measured interval: 30 s)
+17:29:56 Used memory: 2881429 KB
+17:29:56 Players: 0 in total
+17:30:26 Average server FPS: 9671.70 (measured interval: 30 s)
+17:30:26 Used memory: 2881470 KB
+17:30:26 Players: 0 in total
+17:30:56 Average server FPS: 9718.40 (measured interval: 30 s)
+17:30:56 Used memory: 2881628 KB
+17:30:56 Players: 0 in total
+17:31:26 Average server FPS: 9642.07 (measured interval: 30 s)
+17:31:26 Used memory: 2881923 KB
+17:31:26 Players: 0 in total
+17:31:56 Average server FPS: 9790.83 (measured interval: 30 s)
+17:31:56 Used memory: 2881976 KB
+17:31:56 Players: 0 in total
+17:32:26 Average server FPS: 9568.10 (measured interval: 30 s)
+17:32:26 Used memory: 2882146 KB
+17:32:26 Players: 0 in total
+17:32:56 Average server FPS: 9502.17 (measured interval: 30 s)
+17:32:56 Used memory: 2882157 KB
+17:32:56 Players: 0 in total
+17:33:26 Average server FPS: 9858.53 (measured interval: 30 s)
+17:33:26 Used memory: 2882367 KB
+17:33:26 Players: 0 in total
+17:33:56 Average server FPS: 9803.93 (measured interval: 30 s)
+17:33:56 Used memory: 2882549 KB
+17:33:56 Players: 0 in total
+17:34:26 Average server FPS: 9865.73 (measured interval: 30 s)
+17:34:26 Used memory: 2882553 KB
+17:34:26 Players: 0 in total
+17:34:56 Average server FPS: 9599.57 (measured interval: 30 s)
+17:34:56 Used memory: 2882720 KB
+17:34:56 Players: 0 in total
+17:35:26 Average server FPS: 9603.23 (measured interval: 30 s)
+17:35:26 Used memory: 2882729 KB
+17:35:26 Players: 0 in total
+17:35:56 Average server FPS: 9594.97 (measured interval: 30 s)
+17:35:56 Used memory: 2883136 KB
+17:35:56 Players: 0 in total
+17:36:26 Average server FPS: 9638.83 (measured interval: 30 s)
+17:36:26 Used memory: 2883139 KB
+17:36:26 Players: 0 in total
+17:36:56 Average server FPS: 9629.47 (measured interval: 30 s)
+17:36:56 Used memory: 2883144 KB
+17:36:56 Players: 0 in total
+17:37:26 Average server FPS: 9614.93 (measured interval: 30 s)
+17:37:26 Used memory: 2884382 KB
+17:37:26 Players: 0 in total
+17:37:56 Average server FPS: 9653.23 (measured interval: 30 s)
+17:37:56 Used memory: 2884386 KB
+17:37:56 Players: 0 in total
+17:38:26 Average server FPS: 9650.03 (measured interval: 30 s)
+17:38:26 Used memory: 2884451 KB
+17:38:26 Players: 0 in total
+17:38:56 Average server FPS: 9640.87 (measured interval: 30 s)
+17:38:56 Used memory: 2884452 KB
+17:38:56 Players: 0 in total
+17:39:26 Average server FPS: 9462.30 (measured interval: 30 s)
+17:39:26 Used memory: 2884458 KB
+17:39:26 Players: 0 in total
+17:39:56 Average server FPS: 9602.33 (measured interval: 30 s)
+17:39:56 Used memory: 2884460 KB
+17:39:56 Players: 0 in total
+17:40:26 Average server FPS: 9663.97 (measured interval: 30 s)
+17:40:26 Used memory: 2884463 KB
+17:40:26 Players: 0 in total
+17:40:56 Average server FPS: 9579.60 (measured interval: 30 s)
+17:40:56 Used memory: 2884469 KB
+17:40:56 Players: 0 in total
+17:41:26 Average server FPS: 9637.47 (measured interval: 30 s)
+17:41:26 Used memory: 2884471 KB
+17:41:26 Players: 0 in total
+17:41:56 Average server FPS: 9720.60 (measured interval: 30 s)
+17:41:56 Used memory: 2884472 KB
+17:41:56 Players: 0 in total
+17:42:26 Average server FPS: 9655.07 (measured interval: 30 s)
+17:42:26 Used memory: 2884473 KB
+17:42:26 Players: 0 in total
+17:42:56 Average server FPS: 9668.27 (measured interval: 30 s)
+17:42:56 Used memory: 2884475 KB
+17:42:56 Players: 0 in total
+17:43:26 Average server FPS: 9465.93 (measured interval: 30 s)
+17:43:26 Used memory: 2884976 KB
+17:43:26 Players: 0 in total
+17:43:56 Average server FPS: 9665.57 (measured interval: 30 s)
+17:43:56 Used memory: 2884979 KB
+17:43:56 Players: 0 in total
+17:44:26 Average server FPS: 9640.47 (measured interval: 30 s)
+17:44:26 Used memory: 2885094 KB
+17:44:26 Players: 0 in total
+17:44:56 Average server FPS: 9447.67 (measured interval: 30 s)
+17:44:56 Used memory: 2885253 KB
+17:44:56 Players: 0 in total
+17:45:26 Average server FPS: 9474.63 (measured interval: 30 s)
+17:45:26 Used memory: 2885284 KB
+17:45:26 Players: 0 in total
+17:45:56 Average server FPS: 9233.50 (measured interval: 30 s)
+17:45:56 Used memory: 2885308 KB
+17:45:56 Players: 0 in total
+17:46:26 Average server FPS: 9337.23 (measured interval: 30 s)
+17:46:26 Used memory: 2885315 KB
+17:46:26 Players: 0 in total
+17:46:56 Average server FPS: 9330.23 (measured interval: 30 s)
+17:46:56 Used memory: 2885326 KB
+17:46:56 Players: 0 in total
+17:47:26 Average server FPS: 9417.40 (measured interval: 30 s)
+17:47:26 Used memory: 2885494 KB
+17:47:26 Players: 0 in total
+17:47:56 Average server FPS: 9467.20 (measured interval: 30 s)
+17:47:56 Used memory: 2885574 KB
+17:47:56 Players: 0 in total
+17:48:26 Average server FPS: 9365.87 (measured interval: 30 s)
+17:48:26 Used memory: 2885778 KB
+17:48:26 Players: 0 in total
+17:48:56 Average server FPS: 9451.23 (measured interval: 30 s)
+17:48:56 Used memory: 2885776 KB
+17:48:56 Players: 0 in total
+17:49:26 Average server FPS: 9393.13 (measured interval: 30 s)
+17:49:26 Used memory: 2886076 KB
+17:49:26 Players: 0 in total
+17:49:56 Average server FPS: 9314.53 (measured interval: 30 s)
+17:49:56 Used memory: 2886081 KB
+17:49:56 Players: 0 in total
+17:50:26 Average server FPS: 9408.50 (measured interval: 30 s)
+17:50:26 Used memory: 2886084 KB
+17:50:26 Players: 0 in total
+17:50:56 Average server FPS: 9275.93 (measured interval: 30 s)
+17:50:56 Used memory: 2886089 KB
+17:50:56 Players: 0 in total
+17:51:26 Average server FPS: 9365.80 (measured interval: 30 s)
+17:51:26 Used memory: 2886092 KB
+17:51:26 Players: 0 in total
+17:51:56 Average server FPS: 9385.10 (measured interval: 30 s)
+17:51:56 Used memory: 2886098 KB
+17:51:56 Players: 0 in total
+17:52:26 Average server FPS: 9422.60 (measured interval: 30 s)
+17:52:26 Used memory: 2886102 KB
+17:52:26 Players: 0 in total
+17:52:56 Average server FPS: 9421.17 (measured interval: 30 s)
+17:52:56 Used memory: 2886106 KB
+17:52:56 Players: 0 in total
+17:53:26 Average server FPS: 9274.30 (measured interval: 30 s)
+17:53:26 Used memory: 2886206 KB
+17:53:26 Players: 0 in total
+17:53:56 Average server FPS: 9387.53 (measured interval: 30 s)
+17:53:56 Used memory: 2886211 KB
+17:53:56 Players: 0 in total
+17:54:26 Average server FPS: 9411.55 (measured interval: 30 s)
+17:54:26 Used memory: 2886212 KB
+17:54:26 Players: 0 in total
+17:54:56 Average server FPS: 9353.67 (measured interval: 30 s)
+17:54:56 Used memory: 2886216 KB
+17:54:56 Players: 0 in total
+17:55:26 Average server FPS: 9359.42 (measured interval: 30 s)
+17:55:26 Used memory: 2886217 KB
+17:55:26 Players: 0 in total
+17:55:56 Average server FPS: 9319.23 (measured interval: 30 s)
+17:55:56 Used memory: 2886219 KB
+17:55:56 Players: 0 in total
+17:56:26 Average server FPS: 9336.03 (measured interval: 30 s)
+17:56:26 Used memory: 2886222 KB
+17:56:26 Players: 0 in total
+17:56:56 Average server FPS: 9313.03 (measured interval: 30 s)
+17:56:56 Used memory: 2886279 KB
+17:56:56 Players: 0 in total

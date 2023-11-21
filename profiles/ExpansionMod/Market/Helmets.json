@@ -336,7 +336,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "WinterGear_TankerHelmet"
+            ]
         },
         {
             "ClassName": "greathelm",
@@ -435,7 +437,8 @@
                 "gorkahelmetvisor"
             ],
             "Variants": [
-                "gorkahelmet_black"
+                "gorkahelmet_black",
+                "WinterGear_GorkaHelmet"
             ]
         },
         {
@@ -460,7 +463,8 @@
             "SpawnAttachments": [],
             "Variants": [
                 "ballistichelmet_black",
-                "ballistichelmet_green"
+                "ballistichelmet_green",
+                "WinterGear_BallisticHelmet"
             ]
         },
         {
@@ -500,6 +504,17 @@
             "ClassName": "norsehelm",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WinterGear_TacticalHelmet",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

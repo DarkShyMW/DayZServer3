@@ -50,7 +50,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "WinterGear_Mosin"
+            ]
         },
         {
             "ClassName": "cz527",

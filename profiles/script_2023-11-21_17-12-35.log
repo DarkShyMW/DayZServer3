@@ -989,3 +989,274 @@ SCRIPT       : DZSM ~ DayZServerManagerWatcher() - INIT DONE
 SCRIPT       : DZSM ~ TICK
 SCRIPT       : DZSM ~ Cleanup
 SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Initialize::CozyRussianSnow
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Fog:: ( 18.2968 ) 0.414524
+SCRIPT       : WinterChernarus::Weather::Overcast:: ( 18.2968 )  overcast: 0.625599
+SCRIPT       : WinterChernarus::Weather::Overcast::Rain:: ( 18.2968 ) 0.0790049
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 18.3968 ) 0.158016
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 18.8336 ) 0.113343
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 19.2105 ) 0.422318
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 19.574 ) 0.154457
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 20.1499 ) 0.134028
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 20.6231 ) 0.269018
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 20.9866 ) 0.494433
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 21.3534 ) 0.426548
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 21.8432 ) 0.261815
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 22.4257 ) 0.101306
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 22.8092 ) 0.429191
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 23.3918 ) 0.191723
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Overcast:: ( 23.7373 )  overcast: 0.67083
+SCRIPT       : WinterChernarus::Weather::Overcast::Rain:: ( 23.7373 ) 0.126411
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 23.8352 ) 0.126411
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain:: ( 0.268667 ) 0.193899
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Fog:: ( 0.385617 ) 0.248651
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain::ForceEnd:: ( 0.84126 ) 0.149013 -> 0
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : WinterChernarus::Weather::Rain::ForceEnd:: ( 1.44035 ) 0 -> 0
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : DZSM ~ TICK
+SCRIPT       : DZSM ~ Cleanup
+SCRIPT       : DZSM ~ Cleanup Done
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 17:57:00.277 [EXPANSION DEBUG]: Clearing cached categories 67
+SCRIPT       : 17:57:00.281 [EXPANSION DEBUG]: Clearing cached traders 17
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~DayZGame()

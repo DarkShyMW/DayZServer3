@@ -99,7 +99,9 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-                "highcapacityvest_olive"
+                "highcapacityvest_olive",
+                "WinterGear_HighCapVest",
+                "WinterGear_HighCapVest_camo"
             ]
         },
         {
@@ -125,7 +127,8 @@
             "Variants": [
                 "platecarriervest_green",
                 "platecarriervest_black",
-                "platecarriervest_camo"
+                "platecarriervest_camo",
+                "WinterGear_PlateCarrierVest"
             ]
         },
         {
@@ -160,6 +163,34 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Defender_Vest_Classic",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Defender_Vest_Black"
+            ]
+        },
+        {
+            "ClassName": "WinterGear_AssaultVest",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "WinterGear_AssaultVest"
+            ]
         }
     ]
 }
+
+

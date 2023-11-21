@@ -54,7 +54,9 @@
                 "balaclavamask_white",
                 "balaclavamask_blackskull",
                 "balaclavamask_black",
-                "balaclavamask_green"
+                "balaclavamask_green",
+                "WinterGear_Balaclava",
+                "WinterGear_BalaclavaSkull"
             ]
         },
         {
@@ -147,7 +149,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "PMK_5A_Gas_Mask"
+            ]
         },
         {
             "ClassName": "gp5gasmask",
@@ -158,7 +162,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "PMK_5A_Gas_Mask"
+            ]
         },
         {
             "ClassName": "airbornemask",
@@ -183,6 +189,42 @@
             "Variants": [
                 "mimemask_male"
             ]
+        },
+        {
+            "ClassName": "Ragged_Eyepatch",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SkullMask",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Plague_Mask",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
+
+
+

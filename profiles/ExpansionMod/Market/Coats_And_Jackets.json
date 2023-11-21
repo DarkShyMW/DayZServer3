@@ -30,7 +30,8 @@
                 "tracksuitjacket_blue",
                 "tracksuitjacket_green",
                 "tracksuitjacket_lightblue",
-                "tracksuitjacket_red"
+                "tracksuitjacket_red",
+                "WinterGear_TrackSuitJacket"
             ]
         },
         {
@@ -207,7 +208,8 @@
                 "quiltedjacket_yellow",
                 "quiltedjacket_violet",
                 "quiltedjacket_black",
-                "quiltedjacket_green"
+                "quiltedjacket_green",
+                "WinterGear_QuiltedJacket"
             ]
         },
         {
@@ -276,7 +278,8 @@
             "SpawnAttachments": [],
             "Variants": [
                 "paramedicjacket_crimson",
-                "paramedicjacket_green"
+                "paramedicjacket_green",
+                "WinterGear_MedicJacket"
             ]
         },
         {
@@ -320,7 +323,8 @@
                 "raincoat_red",
                 "raincoat_blue",
                 "raincoat_black",
-                "raincoat_green"
+                "raincoat_green",
+                "WinterGear_RainCoat"
             ]
         },
         {
@@ -369,7 +373,8 @@
                 "huntingjacket_brown",
                 "huntingjacket_spring",
                 "huntingjacket_summer",
-                "huntingjacket_winter"
+                "huntingjacket_winter",
+                "WinterGear_HuntingJacket"
             ]
         },
         {
@@ -384,7 +389,9 @@
             "Variants": [
                 "m65jacket_khaki",
                 "m65jacket_tan",
-                "m65jacket_olive"
+                "m65jacket_olive",
+                "WinterGear_M65Jacket",
+                "WinterGear_M65Jacket_camo"
             ]
         },
         {
@@ -458,6 +465,39 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Winter_Parka_Base",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 775,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Winter_Parka_White",
+                "Winter_Parka_Green"
+            ]
+        },
+        {
+            "ClassName": "Wool_GreatCoat_Navy",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 875,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Wool_GreatCoat_Olive",
+                "Wool_GreatCoat_Grey"
+            ]
         }
     ]
 }
+
+
+
+
+

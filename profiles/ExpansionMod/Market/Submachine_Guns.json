@@ -30,7 +30,9 @@
             "SpawnAttachments": [
                 "mag_ump_25rnd"
             ],
-            "Variants": []
+            "Variants": [
+                "WinterGear_UMP"
+            ]
         },
         {
             "ClassName": "mp5k",

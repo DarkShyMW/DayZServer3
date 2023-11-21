@@ -73,7 +73,9 @@
                 "sneakers_red",
                 "sneakers_white",
                 "sneakers_black",
-                "sneakers_gray"
+                "sneakers_gray",
+                "High_Knee_Sneakers",
+                "High_Knee_Sneakers_Black"
             ]
         },
         {
@@ -354,7 +356,8 @@
                 "militaryboots_bluerock",
                 "militaryboots_beige",
                 "militaryboots_black",
-                "militaryboots_brown"
+                "militaryboots_brown",
+                "WinterGear_MilitaryBoots"
             ]
         },
         {
@@ -429,6 +432,28 @@
             "ClassName": "medievalboots",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Flipflops_Colorbase",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Kirza_Boots",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
