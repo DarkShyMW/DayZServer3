@@ -7,8 +7,8 @@
   "Items": [
     {
       "ClassName": "TTC_Glock17",
-      "MaxPriceThreshold": 20000,
-      "MinPriceThreshold": 20000,
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent": 20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -18,8 +18,8 @@
     },
     {
       "ClassName": "TTC_Kimber",
-      "MaxPriceThreshold": 20000,
-      "MinPriceThreshold": 20000,
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent": 20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -29,8 +29,8 @@
     },
     {
       "ClassName": "TTC_M9",
-      "MaxPriceThreshold": 20000,
-      "MinPriceThreshold": 20000,
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent": 20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -40,8 +40,8 @@
     },
     {
       "ClassName": "TTC_M9_Custom",
-      "MaxPriceThreshold": 20000,
-      "MinPriceThreshold": 20000,
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent": 20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -51,8 +51,8 @@
     },
     {
       "ClassName": "TTC_Deagle",
-      "MaxPriceThreshold": 20000,
-      "MinPriceThreshold": 20000,
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent": 20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -62,8 +62,8 @@
     },
     {
       "ClassName": "TTC_44Magnum",
-      "MaxPriceThreshold": 20000,
-      "MinPriceThreshold": 20000,
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent": 20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -73,8 +73,8 @@
     },
     {
       "ClassName": "TTC_44Magnum_Black",
-      "MaxPriceThreshold": 20000,
-      "MinPriceThreshold": 20000,
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent": 20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -84,8 +84,8 @@
     },
     {
       "ClassName": "TTC_P320",
-      "MaxPriceThreshold": 20000,
-      "MinPriceThreshold": 20000,
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent":  20,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

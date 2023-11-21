@@ -7,8 +7,8 @@
   "Items": [
     {
       "ClassName": "TTC_MP5SD",
-      "MaxPriceThreshold": 24000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 2400,
+      "MinPriceThreshold": 800,
       "SellPricePercent": 20,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -18,8 +18,8 @@
     },
     {
       "ClassName": "TTC_MP7A1",
-      "MaxPriceThreshold": 24000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 2400,
+      "MinPriceThreshold": 800,
       "SellPricePercent": 20,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -29,8 +29,8 @@
     },
     {
       "ClassName": "TTC_MPX",
-      "MaxPriceThreshold": 24000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 2400,
+      "MinPriceThreshold": 800,
       "SellPricePercent": 20,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -40,8 +40,8 @@
     },
     {
       "ClassName": "TTC_PP91",
-      "MaxPriceThreshold": 24000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 2400,
+      "MinPriceThreshold": 800,
       "SellPricePercent": 20,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -51,8 +51,8 @@
     },
     {
       "ClassName": "TTC_UZI",
-      "MaxPriceThreshold": 24000,
-      "MinPriceThreshold": 8000,
+      "MaxPriceThreshold": 2400,
+      "MinPriceThreshold": 800,
       "SellPricePercent": 20,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
